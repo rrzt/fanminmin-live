@@ -6,7 +6,6 @@
 - 📺IPTV(IPV6专用) [https://live.fanmingming.com/tv/m3u/ipv6.m3u](https://live.fanmingming.com/tv/m3u/ipv6.m3u) 📑[pull](https://github.com/fanmingming/live/edit/main/tv/m3u/ipv6.m3u) 👈
 - 🌏Global直播源 [https://live.fanmingming.com/tv/m3u/global.m3u](https://live.fanmingming.com/tv/m3u/global.m3u) 📑[pull](https://github.com/fanmingming/live/edit/main/tv/m3u/global.m3u)👈
 - 📻Radio直播源 [https://live.fanmingming.com/radio/m3u/index.m3u](https://live.fanmingming.com/radio/m3u/index.m3u) 📑[pull](https://github.com/fanmingming/live/edit/main/radio/m3u/index.m3u)👈
-- 🆕重庆广电直播源 [https://live.fanmingming.com/tv/m3u/cqccn.m3u](https://live.fanmingming.com/tv/m3u/cqccn.m3u) 📑[pull](https://github.com/fanmingming/live/edit/main/tv/m3u/cqccn.m3u)👈
 
 ## 🛠️工具
 - 为了方便管理和维护已有的直播源内容，添加了一个直播源检测工具。
@@ -26,5 +25,5 @@
 - 为了让项目可持续，您可点击直播源链接右侧的pull对失效的源进行修改、编辑、提交拉取请求，我们会在收到拉取请求后，对您提交的内容进行验证，通过后会自动发布且为您署名。
 
 ## 📔最后更新
-- 2023.2.24
-> 添加了一些电视台台标。
+- 2023.2.28
+> 因重庆广电源失效，现已删除！
