@@ -1,6 +1,6 @@
 <h1 align="center"> ✯ 一个国内可直连的直播源分享项目 ✯ </h1>
 
-<h3 align="center">🔕 永久免费 直连访问 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕</h3>
+<h3 align="center">🔕 永久免费 直连访问 🚫无广告 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕</h3>
 
 ## 🤹‍♂️直播源地址:
 - 📺IPTV(IPV6专用) [https://live.fanmingming.com/tv/m3u/ipv6.m3u](https://live.fanmingming.com/tv/m3u/ipv6.m3u) 📑[pull](https://github.com/fanmingming/live/edit/main/tv/m3u/ipv6.m3u) 👈
@@ -25,5 +25,5 @@
 - 为了让项目可持续，您可点击直播源链接右侧的pull对失效的源进行修改、编辑、提交拉取请求，我们会在收到拉取请求后，对您提交的内容进行验证，通过后会自动发布且为您署名。
 
 ## 📔最后更新
-- 2023.3.17
-> 修复了一些错误。
+- 2023.3.19
+> 已合并[@drangjchen](https://github.com/drangjchen)的拉取请求，并且修复了源当中的一些错误。
