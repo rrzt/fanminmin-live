@@ -10,7 +10,7 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225621/index.m3
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/CCTV5.png" group-title="央视",CCTV-5
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/CCTV5+.png" group-title="央视",CCTV-5+
-http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000132/index.m3u8?IAS
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225706/index.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/CCTV6.png" group-title="央视",CCTV-6
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225632/index.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/CCTV7.png" group-title="央视",CCTV-7
@@ -139,8 +139,6 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226200/index.m3
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/大湾区卫视.png" group-title="卫视",大湾区卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226203/index.m3u8
-#EXTINF:-1 tvg-id="体育赛事" tvg-name="体育赛事" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/体育赛事.png" group-title="其他",体育赛事
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225706/index.m3u8
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/中国教育1台.png" group-title="教育部",中国教育1台
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225917/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/中国教育4台.png" group-title="教育部",中国教育4台
