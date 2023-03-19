@@ -66,7 +66,7 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 #EXTINF:-1 tvg-id="亚洲新闻" tvg-name="亚洲新闻" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/亚洲新闻.png" group-title="国际",亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226421/index.m3u8
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225667/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/北京卫视.png" group-title="卫视",北京卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225674/index.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/湖南卫视.png" group-title="卫视",湖南卫视
@@ -114,7 +114,7 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225612/index.m3
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225690/index.m3u8
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/宁夏卫视.png" group-title="卫视",宁夏卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225535/index.m3u8
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225726/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/陕西卫视.png" group-title="卫视",陕西卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225729/index.m3u8
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/甘肃卫视.png" group-title="卫视",甘肃卫视
@@ -126,7 +126,7 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/ind
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/海峡卫视.png" group-title="卫视",海峡卫视
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/新疆卫视.png" group-title="卫视",新疆卫视
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227248/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225725/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/云南卫视.png" group-title="卫视",云南卫视
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227181/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/青海卫视.png" group-title="卫视",青海卫视
@@ -169,30 +169,14 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/电视指南.png" group-title="央视",电视指南
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/金鹰纪实.png" group-title="湖南",金鹰纪实
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225595/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/金鹰卡通.png" group-title="湖南",金鹰卡通
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226246/index.m3u8
-#EXTINF:-1 tvg-id="茶友频道" tvg-name="茶友频道" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/茶.png" group-title="湖南",茶友频道
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225781/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/快乐垂钓.png" group-title="湖南",快乐垂钓
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002264/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/纯享4K.png" group-title="央视",纯享超清
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-id="梨园频道" tvg-name="梨园频道" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/梨园.png" group-title="河南",梨园频道
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225581/2/index.m3u8
 #EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/武术世界.png" group-title="河南",武术世界
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225508/2/index.m3u8
 #EXTINF:-1 tvg-id="国学频道" tvg-name="国学频道" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/国学.png" group-title="河南",国学频道
 http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226629/index.m3u8
-#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/纯享4K.png" group-title="央视",纯享超清
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
-#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/游戏风云.png" group-title="上海",SITV游戏风云
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226579/index.m3u8
-#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/动漫秀场.png" group-title="上海",SITV动漫秀场
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227071/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/黑莓电影.png" group-title="内蒙古",黑莓电影
-http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225891/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/黑莓动画.png" group-title="内蒙古",黑莓动画
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225878/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/北京纪实科教.png" group-title="北京",北京纪实科教
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225676/index.m3u8
 #EXTINF:-1 tvg-id="浙江新闻" tvg-name="浙江新闻" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/浙江新闻.png" group-title="浙江",浙江新闻
@@ -242,7 +226,11 @@ http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/魅力足球.png" group-title="上海",SITV魅力足球
 http://[2409:8c3c:1300:806:74::b]/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/xuandong.png" group-title="上海",哈哈炫动
-http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226410/index.m3u8
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225720/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/游戏风云.png" group-title="上海",SITV游戏风云
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226579/index.m3u8
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/动漫秀场.png" group-title="上海",SITV动漫秀场
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227071/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/欢笑剧场.png" group-title="上海",SITV欢笑剧场4K
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/江西少儿.png" group-title="江西",江西少儿
@@ -279,6 +267,18 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226692/index.m3u
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="芒果综艺" tvg-name="芒果综艺" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/hunan.png" group-title="湖南",芒果综艺
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/金鹰纪实.png" group-title="湖南",金鹰纪实
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225595/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/金鹰卡通.png" group-title="湖南",金鹰卡通
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226246/index.m3u8
+#EXTINF:-1 tvg-id="茶友频道" tvg-name="茶友频道" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/茶.png" group-title="湖南",茶友频道
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225781/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/快乐垂钓.png" group-title="湖南",快乐垂钓
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002264/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/黑莓电影.png" group-title="内蒙古",黑莓电影
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225891/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/黑莓动画.png" group-title="内蒙古",黑莓动画
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225878/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 tvg-id="NEWTV超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/NEWTV超级综艺.png" group-title="央视",超级综艺
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225620/2/index.m3u8
 #EXTINF:-1 tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/drangjchen/live/branch/tv/NEWTV超级体育.png" group-title="央视",超级体育
