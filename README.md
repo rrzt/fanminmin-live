@@ -9,12 +9,10 @@
 
 ## 🛠️工具
 - 为了方便管理和维护已有的直播源内容，添加了一个直播源检测工具。
-
-> [IPTV Checker 2.5 Simplified Chinese.exe](https://live.fanmingming.com/tools/IPTV-Checker-2.5-Simplified-Chinese.exe)
+  - [IPTV Checker 2.5 Simplified Chinese.exe](https://live.fanmingming.com/tools/IPTV-Checker-2.5-Simplified-Chinese.exe)
 
 - 添加了一个m3u8在线播放器，请参考下方Demo链接来使用。
-
-> Player Demo🔗 [https://live.fanmingming.com/player/?vurl=https://livedoc.cgtn.com/500d/prog_index.m3u8](https://live.fanmingming.com/player/?vurl=https://livedoc.cgtn.com/500d/prog_index.m3u8)
+  - Player Demo🔗 [https://live.fanmingming.com/player/?vurl=https://livedoc.cgtn.com/500d/prog_index.m3u8](https://live.fanmingming.com/player/?vurl=https://livedoc.cgtn.com/500d/prog_index.m3u8)
 
 ## 📖说明
 - 所有直播源均收集于互联网，内容仅供测试。
@@ -26,4 +24,4 @@
 
 ## 📔最后更新
 - 2023.3.21
-> 已合并[@drangjchen](https://github.com/drangjchen)的拉取请求，再次感谢！另外对一些台标做了透明化处理。
+  -已合并[@drangjchen](https://github.com/drangjchen)的拉取请求，再次感谢！另外对一些台标做了透明化处理。
