@@ -22,6 +22,9 @@
 - 所有文件和内容均托管在[GitHub](https://github.com/fanmingming/live)，由项目发起人公益维护，欢迎Star本项目或点击[Issues](https://github.com/fanmingming/live/issues)反馈遇到的问题。
 - 为了让项目可持续，您可点击直播源链接右侧的pull对失效的源进行修改、编辑、提交拉取请求，我们会在收到拉取请求后，对您提交的内容进行验证，通过后会自动发布且为您署名。
 
+## 🧑‍项目贡献者
+- [@drangjchen](https://github.com/drangjchen)
+
 ## 📔最后更新
-- 2023.3.21
-  - 已合并[@drangjchen](https://github.com/drangjchen)的拉取请求，再次感谢！另外对一些台标做了透明化处理。
+- 2023.3.25
+  - IPv6源修复了部分频道无法播放的问题，去掉了一些失效的频道。
