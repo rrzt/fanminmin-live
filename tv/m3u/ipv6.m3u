@@ -35,6 +35,14 @@ https://zb.fanmingming.com/api/?id=CCTV-15-yyH265
 https://zb.fanmingming.com/api/?id=CCTV-16
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV17
 https://zb.fanmingming.com/api/?id=CCTV-17
+#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="央视",CCTV4欧洲
+http://[2409:8087:5011:1020::1f]/180000001002/00000001000000000071000000305577/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="央视",CCTV4美洲
+http://[2409:8087:5011:1020::1f]/180000001002/00000001000000000071000000305581/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="UHD",CCTV-4K
+https://zb.fanmingming.com/api/?id=ys4Kcq_2000
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="UHD",CCTV16-4K
+https://zb.fanmingming.com/api/?id=CCTV-16-4K_8000
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视",CGTN英文
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028019/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="CGTNDOCUMENTARY" tvg-name="CGTNDOCUMENTARY" tvg-logo="https://live.fanmingming.com/tv/CGTNDoc.png" group-title="央视",CGTN纪实
@@ -163,6 +171,20 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央视",电视指南
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
+#EXTINF:-1 tvg-id="内蒙古新闻综合" tvg-name="内蒙古新闻综合" tvg-logo="https://live.fanmingming.com/tv/neimeng.png" group-title="内蒙",内蒙古新闻综合
+https://zb.fanmingming.com/api/n.php?id=162
+#EXTINF:-1 tvg-id="内蒙古经济生活" tvg-name="内蒙古经济生活" tvg-logo="https://live.fanmingming.com/tv/neimeng.png" group-title="内蒙",内蒙古经济生活
+https://zb.fanmingming.com/api/n.php?id=168
+#EXTINF:-1 tvg-id="内蒙古文体娱乐" tvg-name="内蒙古文体娱乐" tvg-logo="https://live.fanmingming.com/tv/neimeng.png" group-title="内蒙",内蒙古文体娱乐
+https://zb.fanmingming.com/api/n.php?id=166
+#EXTINF:-1 tvg-id="内蒙古农牧频道" tvg-name="内蒙古农牧频道" tvg-logo="https://live.fanmingming.com/tv/neimeng.png" group-title="内蒙",内蒙古农牧频道
+https://zb.fanmingming.com/api/n.php?id=167
+#EXTINF:-1 tvg-id="内蒙古少儿频道" tvg-name="内蒙古少儿频道" tvg-logo="https://live.fanmingming.com/tv/neimeng.png" group-title="内蒙",内蒙古少儿频道
+https://zb.fanmingming.com/api/n.php?id=165
+#EXTINF:-1 tvg-id="内蒙古蒙语卫视" tvg-name="内蒙古蒙语卫视" tvg-logo="https://live.fanmingming.com/tv/neimeng.png" group-title="内蒙",内蒙古蒙语卫视
+https://zb.fanmingming.com/api/n.php?id=164
+#EXTINF:-1 tvg-id="内蒙古蒙语文化" tvg-name="内蒙古蒙语文化" tvg-logo="https://live.fanmingming.com/tv/neimeng.png" group-title="内蒙",内蒙古蒙语文化
+https://zb.fanmingming.com/api/n.php?id=163
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="河南",河南都市
 http://[2409:8087:4400:20:1:a0f:12:c]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226430/index.m3u8
 #EXTINF:-1 tvg-id="河南视剧" tvg-name="河南电视剧" tvg-logo="https://live.fanmingming.com/tv/henan.png" group-title="河南",河南视剧
@@ -337,10 +359,6 @@ https://zb.fanmingming.com/api/?id=xfpy
 https://zb.fanmingming.com/api/?id=zgqx
 #EXTINF:-1 tvg-id="苏州-4K" tvg-name="苏州-4K" tvg-logo="https://live.fanmingming.com/tv/suzhou4k.png" group-title="UHD",苏州-4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="UHD",CCTV-4K
-https://zb.fanmingming.com/api/?id=ys4Kcq_2000
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="UHD",CCTV16-4K
-https://zb.fanmingming.com/api/?id=CCTV-16-4K_8000
 #EXTINF:-1 tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="UHD",4K超高清电影
 https://zb.fanmingming.com/api/?id=emdy4k_8000
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视",CGTN俄语
