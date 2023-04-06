@@ -1,4 +1,4 @@
-name: Update
+name: EPG Update
 
 on:
   push:
@@ -10,11 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-    - name: Update
+    - name: EPG Update
       run: |
-        # 创建节目源
         rm -f e.xml && wget https://epg.112114.xyz/pp.xml -O e.xml
-        # 更新节目源
         git config --global user.name fanmingming
         git config --global user.email mingming@live.com
         git add e.xml
