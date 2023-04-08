@@ -3,11 +3,33 @@
 <h3 align="center">🔕 永久免费 直连访问 🚫无广告 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕</h3>
 
 ## 🤹‍♂️直播源地址:
-| 名称 | 直播源地址 |
-| ------ | ------ |
-| 📺IPTV(IPV6专用) | https://live.fanmingming.com/tv/m3u/ipv6.m3u |
-| 🌏Global直播源 | https://live.fanmingming.com/tv/m3u/global.m3u |
-| 📻Radio直播源 | https://live.fanmingming.com/radio/m3u/index.m3u |
+
+<table>
+  <thead>
+    <tr>
+      <th>名称</th>
+      <th>直播源地址</th>
+      <th>完善源</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>📺IPTV(IPV6专用)</td>
+      <td>https://live.fanmingming.com/tv/m3u/ipv6.m3u</td>
+      <td><a href="https://github.com/fanmingming/live/edit/main/tv/m3u/ipv6.m3u">编辑该源</a></td>
+    </tr>
+    <tr>
+      <td>🌏Global直播源</td>
+      <td>https://live.fanmingming.com/tv/m3u/global.m3u</td>
+      <td><a href="https://github.com/fanmingming/live/edit/main/tv/m3u/global.m3u">编辑该源</a></td>
+    </tr>
+    <tr>
+      <td>📻Radio直播源</td>
+      <td>https://live.fanmingming.com/radio/m3u/index.m3u</td>
+      <td><a href="https://github.com/fanmingming/live/edit/main/radio/m3u/index.m3u">编辑该源</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ## 🛠️工具
 - 🆕EPG接口
@@ -22,7 +44,7 @@
 - 您可以Fork本项目，但引用项目内容到其他仓库的情况，务必要遵守开源协议。
 - 本项目不保证所有直播源节目的有效性，直播内容可能受直播服务提供商因素影响而失效。
 - 所有文件和内容均托管在[GitHub](https://github.com/fanmingming/live)，由项目发起人公益维护，欢迎Star本项目或点击[Issues](https://github.com/fanmingming/live/issues)反馈遇到的问题。
-- 您可对本项目失效的频道源进行修改、编辑、提交拉取请求，我们会在收到拉取请求后，对您提交的内容进行验证，通过后会自动发布且为您署名。
+- 您可对本项目失效的频道源进行修改、编辑、提交拉取请求，我们会在收到拉取请求后，对您提交的内容进行验证，审核通过后会自动发布且为您署名。
 
 ## 🧑‍项目贡献者
 - [@drangjchen](https://github.com/drangjchen)
