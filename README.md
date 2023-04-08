@@ -7,7 +7,7 @@
 <table>
   <thead>
     <tr>
-      <th>名称</th>
+      <th>源名称</th>
       <th>直播源地址</th>
       <th>完善源</th>
     </tr>
