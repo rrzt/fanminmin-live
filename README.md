@@ -12,6 +12,7 @@
   -  [https://live.fanmingming.com/e.xml](https://live.fanmingming.com/e.xml)
 - M3U8 Web Player
   - Demo🔗 [https://live.fanmingming.com/player/?vurl=https://livedoc.cgtn.com/500d/prog_index.m3u8](https://live.fanmingming.com/player/?vurl=https://livedoc.cgtn.com/500d/prog_index.m3u8)
+
 ## 📖说明
 - 所有直播源均收集于互联网，内容仅供测试。
 - 通过M3U8 Player测试直播源需使用https协议直播源链接。
