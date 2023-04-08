@@ -8,9 +8,10 @@
 - 📻Radio直播源 [https://live.fanmingming.com/radio/m3u/index.m3u](https://live.fanmingming.com/radio/m3u/index.m3u)
 
 ## 🛠️工具
-- M3U8 Player，使用方法参考Demo。
+- M3U8 Web Player
   - Player Demo🔗 [https://live.fanmingming.com/player/?vurl=https://livedoc.cgtn.com/500d/prog_index.m3u8](https://live.fanmingming.com/player/?vurl=https://livedoc.cgtn.com/500d/prog_index.m3u8)
-
+- 🆕EPG接口
+  -  [https://live.fanmingming.com/e.xml](https://live.fanmingming.com/e.xml)
 ## 📖说明
 - 所有直播源均收集于互联网，内容仅供测试。
 - 通过M3U8 Player测试直播源需使用https协议直播源链接。
@@ -24,7 +25,5 @@
 - [@drangjchen](https://github.com/drangjchen)
 
 ## 📔最后更新
-- 2023.4.6
-  - 添加epg(测试) https://live.fanmingming.com/e.xml
 - 2023.4.8
-  - 部分频道更换了接口地址。
+  - IPv6直播源内蒙古频道属于半失效状态，已删除。其他部分频道更换了接口地址。
