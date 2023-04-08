@@ -9,7 +9,7 @@
 
 ## 🛠️工具
 - M3U8 Web Player
-  - Player Demo🔗 [https://live.fanmingming.com/player/?vurl=https://livedoc.cgtn.com/500d/prog_index.m3u8](https://live.fanmingming.com/player/?vurl=https://livedoc.cgtn.com/500d/prog_index.m3u8)
+  - Demo🔗 [https://live.fanmingming.com/player/?vurl=https://livedoc.cgtn.com/500d/prog_index.m3u8](https://live.fanmingming.com/player/?vurl=https://livedoc.cgtn.com/500d/prog_index.m3u8)
 - 🆕EPG接口
   -  [https://live.fanmingming.com/e.xml](https://live.fanmingming.com/e.xml)
 ## 📖说明
