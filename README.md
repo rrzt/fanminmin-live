@@ -42,7 +42,7 @@
 </table>
 
 ## 🛠️工具
-- 🆕EPG接口
+- 🆕EPG接口地址
   -  [https://live.fanmingming.com/e.xml](https://live.fanmingming.com/e.xml)
 - M3U8 Web Player
   - Demo🔗 [https://live.fanmingming.com/player/?vurl=https://livedoc.cgtn.com/500d/prog_index.m3u8](https://live.fanmingming.com/player/?vurl=https://livedoc.cgtn.com/500d/prog_index.m3u8)
