@@ -179,6 +179,12 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央视",电视指南
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
+#EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://live.fanmingming.com/tv/发现之旅.png" group-title="央视",中央新影-发现之旅
+https://tv.fanmingming.com/api/v6.php?id=fxzl_2000
+#EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="https://live.fanmingming.com/tv/老故事.png" group-title="央视",中央新影-老故事
+https://tv.fanmingming.com/api/v6.php?id=lgs_2000
+#EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="https://live.fanmingming.com/tv/中学生.png" group-title="央视",中央新影-中学生
+https://tv.fanmingming.com/api/v6.php?id=zxs_4000
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="UHD",纯享超清
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="河南",河南都市
@@ -357,20 +363,6 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225781/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002264/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.com/tv/先锋乒羽.png" group-title="湖南",先锋乒羽
 https://tv.fanmingming.com/api/v6.php?id=xfpy
-#EXTINF:-1 tvg-id="内蒙古新闻综合" tvg-name="内蒙古新闻综合" tvg-logo="https://live.fanmingming.com/tv/neimeng.png" group-title="内蒙",内蒙古新闻综合
-https://tv.fanmingming.com/api/nmg.php?id=162
-#EXTINF:-1 tvg-id="内蒙古经济生活" tvg-name="内蒙古经济生活" tvg-logo="https://live.fanmingming.com/tv/neimeng.png" group-title="内蒙",内蒙古经济生活
-https://tv.fanmingming.com/api/nmg.php?id=168
-#EXTINF:-1 tvg-id="内蒙古文体娱乐" tvg-name="内蒙古文体娱乐" tvg-logo="https://live.fanmingming.com/tv/neimeng.png" group-title="内蒙",内蒙古文体娱乐
-https://tv.fanmingming.com/api/nmg.php?id=166
-#EXTINF:-1 tvg-id="内蒙古农牧频道" tvg-name="内蒙古农牧频道" tvg-logo="https://live.fanmingming.com/tv/neimeng.png" group-title="内蒙",内蒙古农牧频道
-https://tv.fanmingming.com/api/nmg.php?id=167
-#EXTINF:-1 tvg-id="内蒙古少儿频道" tvg-name="内蒙古少儿频道" tvg-logo="https://live.fanmingming.com/tv/neimeng.png" group-title="内蒙",内蒙古少儿频道
-https://tv.fanmingming.com/api/nmg.php?id=165
-#EXTINF:-1 tvg-id="内蒙古蒙语卫视" tvg-name="内蒙古蒙语卫视" tvg-logo="https://live.fanmingming.com/tv/neimeng.png" group-title="内蒙",内蒙古蒙语卫视
-https://tv.fanmingming.com/api/nmg.php?id=164
-#EXTINF:-1 tvg-id="内蒙古蒙语文化" tvg-name="内蒙古蒙语文化" tvg-logo="https://live.fanmingming.com/tv/neimeng.png" group-title="内蒙",内蒙古蒙语文化
-https://tv.fanmingming.com/api/nmg.php?id=163
 #EXTINF:-1 tvg-id="足球频道" tvg-name="足球频道" tvg-logo="https://live.fanmingming.com/tv/足球频道.png" group-title="内蒙",足球频道
 http://nmglive.imfc.cn/5n1r1c/182396.m3u8
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="内蒙",黑莓电影
