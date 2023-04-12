@@ -9,7 +9,6 @@
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/fanmingming/live">
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/fanmingming/live">
 <img alt="GitHub" src="https://img.shields.io/github/license/fanmingming/live">
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/fanmingming/live">
 </p>
 
 ---
@@ -63,4 +62,4 @@
 
 ## 📔最后更新
 - 2023.4.12
-  - 添加了内蒙古的一些频道。
+  - 添加了一些频道。
