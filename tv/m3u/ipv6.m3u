@@ -35,6 +35,10 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225641/index.m3
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226230/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV-17
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225909/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="央视",CCTV4欧洲
+http://[2409:8087:5011:1020::1f]:80/180000001002/00000001000000000071000000305577/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="央视",CCTV4美洲
+http://[2409:8087:5011:1020::1f]:80/180000001002/00000001000000000071000000305581/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="UHD",CCTV-4K
 https://tv.fanmingming.com/api/v6.php?id=ys4Kcq_2000
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="UHD",CCTV16-4K
@@ -151,10 +155,6 @@ http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
 http://[2409:8087:5011:1020::15]:80/180000001001/00000001000000001017000000440665/index.m3u8
 #EXTINF:-1 tvg-id="清华有线" tvg-name="清华有线" tvg-logo="https://live.fanmingming.com/tv/清华.png" group-title="教育",清华校园有线
 http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
-#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="央视",CCTV4欧洲
-http://[2409:8087:5011:1020::1f]:80/180000001002/00000001000000000071000000305577/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="央视",CCTV4美洲
-http://[2409:8087:5011:1020::1f]:80/180000001002/00000001000000000071000000305581/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://live.fanmingming.com/tv/发现之旅.png" group-title="央视",发现之旅
 https://tv.fanmingming.com/api/v6.php?id=fxzl_2000
 #EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="https://live.fanmingming.com/tv/老故事.png" group-title="央视",老故事
@@ -323,14 +323,14 @@ http://[2409:8087:5011:1020::1f]:80/180000001001/0000000100000000100100000000004
 http://[2409:8087:5011:1020::1f]:80/180000001001/00000001000000001016000000368716/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="湖南电视剧" tvg-name="湖南电视剧" tvg-logo="https://live.fanmingming.com/tv/湖南电视剧.png" group-title="湖南",湖南视剧
 http://[2409:8087:5011:1020::1f]:80/180000001001/00000001000000001001000000000037/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="芒果互娱" tvg-name="芒果互娱" tvg-logo="https://live.fanmingming.com/tv/芒果互娱.png" group-title="湖南",芒果互娱
-http://[2409:8087:5011:1020::1f]:80/180000001001/00000001000000001025000000196970/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="湖南",茶友频道
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225781/index.m3u8
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="湖南",快乐垂钓
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002264/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.com/tv/先锋乒羽.png" group-title="湖南",先锋乒羽
 https://tv.fanmingming.com/api/v6.php?id=xfpy
+#EXTINF:-1 tvg-id="芒果互娱" tvg-name="芒果互娱" tvg-logo="https://live.fanmingming.com/tv/芒果互娱.png" group-title="湖南",芒果互娱
+http://[2409:8087:5011:1020::1f]:80/180000001001/00000001000000001025000000196970/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="长沙政法" tvg-name="长沙政法" tvg-logo="https://live.fanmingming.com/tv/CS.png" group-title="湖南",长沙政法
 http://[2409:8087:5011:1020::15]:80/180000001002/00000001000000000008000000047430/main.m3u8
 #EXTINF:-1 tvg-id="长沙女性" tvg-name="长沙女性" tvg-logo="https://live.fanmingming.com/tv/CS.png" group-title="湖南",长沙女性
