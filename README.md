@@ -18,7 +18,7 @@
 <table>
   <thead>
     <tr>
-      <th>源名称</th>
+      <th>名称</th>
       <th>直播源地址</th>
       <th>完善源</th>
     </tr>
@@ -57,9 +57,9 @@
 - 所有文件和内容均托管在[GitHub](https://github.com/fanmingming/live)，由项目发起人公益维护，欢迎Star本项目或点击[Issues](https://github.com/fanmingming/live/issues)反馈遇到的问题。
 - 您可对本项目失效的频道源进行修改、编辑、提交拉取请求，我们会在收到拉取请求后，对您提交的内容进行验证，审核通过后会自动发布且为您署名。
 
-## 🧑‍项目贡献者
+## 🧑‍贡献者
 - [@drangjchen](https://github.com/drangjchen)
 
 ## 📔最后更新
-- 2023.4.14
-  - 调整了部分频道的排序。
+- 2023.4.15
+  - 问题修复。
