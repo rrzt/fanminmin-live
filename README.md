@@ -1,6 +1,6 @@
 <h1 align="center"> ✯ 一个国内可直连的直播源分享项目 ✯ </h1>
 
-<h3 align="center">🔕 永久免费 直连访问 完整开源 干净无广告 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕</h3>
+<h3 align="center">🔕 永久免费 直连访问 完整开源 不含广告 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕</h3>
 
 <p align="center">
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/fanmingming/live">
