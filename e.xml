@@ -7206,6 +7206,9 @@
 	<programme channel="动漫电影" start="20230420013900 +0800" stop="20230420023000 +0800">
 		<title lang="zh">新大头儿子和小头爸爸福鼠送吉</title>
 	</programme>
+	<programme channel="动漫电影" start="20230420023000 +0800" stop="20230420031700 +0800">
+		<title lang="zh">棉花糖和云朵妈妈福鼠送吉</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -8645,6 +8648,9 @@
 	</programme>
 	<programme channel="华语电影HD" start="20230420013700 +0800" stop="20230420024000 +0800">
 		<title lang="zh">明明就是喜欢我</title>
+	</programme>
+	<programme channel="华语电影HD" start="20230420024000 +0800" stop="20230420035100 +0800">
+		<title lang="zh">龙转乾坤</title>
 	</programme>
 	<channel id="南京信息">
 		<display-name lang="zh">南京信息</display-name>
@@ -11063,6 +11069,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20230420000700 +0800" stop="20230420021800 +0800">
 		<title lang="zh">22/23赛季欧联杯1/8决赛次回合全场回放：皇家贝蒂斯0:1曼联（胡小凡、董方卓）</title>
+	</programme>
+	<programme channel="咪咕足球" start="20230420021800 +0800" stop="20230420025000 +0800">
+		<title lang="zh">22/23赛季意甲第27轮全场回放：桑普多利亚3:1维罗纳（乔迁）</title>
 	</programme>
 	<channel id="喜剧联盟">
 		<display-name lang="zh">喜剧联盟</display-name>
@@ -18098,6 +18107,9 @@
 	</programme>
 	<programme channel="欧美动画" start="20230420012200 +0800" stop="20230420021100 +0800">
 		<title lang="zh">猫和老鼠之蓝猫</title>
+	</programme>
+	<programme channel="欧美动画" start="20230420021100 +0800" stop="20230420030200 +0800">
+		<title lang="zh">猫和老鼠之城市乡巴鼠</title>
 	</programme>
 	<channel id="欧美电影HD">
 		<display-name lang="zh">欧美电影HD</display-name>
@@ -28164,6 +28176,9 @@
 	<programme channel="纯享4K" start="20230420012600 +0800" stop="20230420022600 +0800">
 		<title lang="zh">乐享汇4K “一声所爱”演唱会</title>
 	</programme>
+	<programme channel="纯享4K" start="20230420022600 +0800" stop="20230420025600 +0800">
+		<title lang="zh">村庄故事4K 山水岩龙（上）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -28958,6 +28973,18 @@
 	</programme>
 	<programme channel="芒果独播" start="20230420011200 +0800" stop="20230420015700 +0800">
 		<title lang="zh">还没爱够第18集</title>
+	</programme>
+	<programme channel="芒果独播" start="20230420015700 +0800" stop="20230420020600 +0800">
+		<title lang="zh">为你千千万万遍第13集</title>
+	</programme>
+	<programme channel="芒果独播" start="20230420021600 +0800" stop="20230420022900 +0800">
+		<title lang="zh">为你千千万万遍第15集</title>
+	</programme>
+	<programme channel="芒果独播" start="20230420022900 +0800" stop="20230420023800 +0800">
+		<title lang="zh">为你千千万万遍第16集</title>
+	</programme>
+	<programme channel="芒果独播" start="20230420023800 +0800" stop="20230420025100 +0800">
+		<title lang="zh">为你千千万万遍第17集</title>
 	</programme>
 	<channel id="苏州新闻综合">
 		<display-name lang="zh">苏州新闻综合</display-name>
@@ -33456,11 +33483,23 @@
 	<programme channel="黑莓动画" start="20230420013100 +0800" stop="20230420015600 +0800">
 		<title lang="zh">28_名侦探柯南（一）（普通话版）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20230420015600 +0800" stop="20230420022000 +0800">
+		<title lang="zh">29_名侦探柯南（一）（普通话版）</title>
+	</programme>
+	<programme channel="黑莓动画" start="20230420022000 +0800" stop="20230420024600 +0800">
+		<title lang="zh">30_名侦探柯南（一）（普通话版）</title>
+	</programme>
+	<programme channel="黑莓动画" start="20230420024600 +0800" stop="20230420025900 +0800">
+		<title lang="zh">18_加菲猫的幸福生活第四季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
 	<programme channel="黑莓电影" start="20230420005500 +0800" stop="20230420021100 +0800">
 		<title lang="zh">张震讲故事之三更夜</title>
+	</programme>
+	<programme channel="黑莓电影" start="20230420021100 +0800" stop="20230420033400 +0800">
+		<title lang="zh">张震讲故事之鬼迷心窍</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -34479,11 +34518,17 @@
 	<programme channel="newtv超级综艺" start="20230420013500 +0800" stop="20230420024700 +0800">
 		<title lang="zh">向幸福出发</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20230420024700 +0800" stop="20230420033700 +0800">
+		<title lang="zh">幸福账单</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
 	<programme channel="newtv超级体育" start="20230420010000 +0800" stop="20230420020000 +0800">
 		<title lang="zh">实况录像-2023年体操世界杯 科特布斯站 1</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20230420020000 +0800" stop="20230420025000 +0800">
+		<title lang="zh">实况录像-2023年国际篮联三人篮球亚洲杯 2</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -34493,6 +34538,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20230420004800 +0800" stop="20230420021800 +0800">
 		<title lang="zh">金沟情仇记</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20230420021800 +0800" stop="20230420034100 +0800">
+		<title lang="zh">T台魔王</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -34506,6 +34554,9 @@
 	<programme channel="newtv超级电视剧" start="20230420014100 +0800" stop="20230420022300 +0800">
 		<title lang="zh">39_亲爱的孩子们</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20230420022300 +0800" stop="20230420030700 +0800">
+		<title lang="zh">40_亲爱的孩子们</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -34514,6 +34565,12 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20230420011000 +0800" stop="20230420015600 +0800">
 		<title lang="zh">04_青山不墨</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20230420015600 +0800" stop="20230420024100 +0800">
+		<title lang="zh">05_青山不墨</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20230420024100 +0800" stop="20230420032700 +0800">
+		<title lang="zh">06_青山不墨</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -34527,6 +34584,12 @@
 	<programme channel="newtv精品纪录" start="20230420010700 +0800" stop="20230420015200 +0800">
 		<title lang="zh">01_因势赋形</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20230420015200 +0800" stop="20230420024100 +0800">
+		<title lang="zh">03_水的力量</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20230420024100 +0800" stop="20230420033100 +0800">
+		<title lang="zh">04_草木之间</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -34539,6 +34602,9 @@
 	<programme channel="newtv古装剧场" start="20230420013600 +0800" stop="20230420022700 +0800">
 		<title lang="zh">12_斛珠夫人</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20230420022700 +0800" stop="20230420031700 +0800">
+		<title lang="zh">13_斛珠夫人</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -34548,6 +34614,12 @@
 	<programme channel="newtv军旅剧场" start="20230420011900 +0800" stop="20230420015900 +0800">
 		<title lang="zh">34_英雄祭</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20230420015900 +0800" stop="20230420024000 +0800">
+		<title lang="zh">35_英雄祭</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20230420024000 +0800" stop="20230420032000 +0800">
+		<title lang="zh">36_英雄祭</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -34556,6 +34628,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20230420012500 +0800" stop="20230420021100 +0800">
 		<title lang="zh">07_同在屋檐下</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20230420021100 +0800" stop="20230420025600 +0800">
+		<title lang="zh">08_同在屋檐下</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -34590,6 +34665,12 @@
 	<programme channel="newtv怡伴健康" start="20230420011000 +0800" stop="20230420015500 +0800">
 		<title lang="zh">29_倚天屠龙记</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20230420015500 +0800" stop="20230420024100 +0800">
+		<title lang="zh">30_倚天屠龙记</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20230420024100 +0800" stop="20230420032500 +0800">
+		<title lang="zh">31_倚天屠龙记</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -34598,6 +34679,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20230420014500 +0800" stop="20230420023000 +0800">
 		<title lang="zh">26_什刹海</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20230420023000 +0800" stop="20230420031600 +0800">
+		<title lang="zh">27_什刹海</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -34608,6 +34692,12 @@
 	<programme channel="newtv军事评论" start="20230420010000 +0800" stop="20230420014900 +0800">
 		<title lang="zh">星火燎原 第5集 作风优良</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20230420014900 +0800" stop="20230420024200 +0800">
+		<title lang="zh">星火燎原 第6集 鱼水情深</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20230420024200 +0800" stop="20230420032700 +0800">
+		<title lang="zh">枕戈待旦——节日战争启示录 第1集 巴巴罗萨一九四一</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -34617,6 +34707,9 @@
 	<programme channel="newtv炫舞未来" start="20230420012600 +0800" stop="20230420024500 +0800">
 		<title lang="zh">第4期：张铁林林心如《还珠》重聚</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20230420024500 +0800" stop="20230420040200 +0800">
+		<title lang="zh">开门大吉（20220314）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -34625,6 +34718,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20230420010100 +0800" stop="20230420023300 +0800">
 		<title lang="zh">暴风雨</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20230420023300 +0800" stop="20230420034400 +0800">
+		<title lang="zh">令人心动的offer第4季</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -34652,6 +34748,9 @@
 	</channel>
 	<programme channel="newtv武搏世界" start="20230420001100 +0800" stop="20230420015600 +0800">
 		<title lang="zh">鸣梁海战</title>
+	</programme>
+	<programme channel="newtv武搏世界" start="20230420015600 +0800" stop="20230420040700 +0800">
+		<title lang="zh">狄仁杰之四大天王</title>
 	</programme>
 	<channel id="newtv中国功夫">
 		<display-name lang="zh">NEWTV中国功夫</display-name>
