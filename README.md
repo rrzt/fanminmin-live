@@ -61,5 +61,5 @@
 - [@drangjchen](https://github.com/drangjchen)
 
 ## 📔最后更新
-- 2023.4.16
-  - 更换了部分频道的播放接口。
+- 2023.4.19
+  - 更换了Global直播源的频道播放接口。
