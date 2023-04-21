@@ -62,5 +62,5 @@
 - [@drangjchen](https://github.com/drangjchen)
 
 ## 📔最后更新
-- 2023.4.20
-  - 为Global直播源添加了一些频道。
+- 2023.4.21
+  - Global直播源大部分国内频道已失效，等待修复。
