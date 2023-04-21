@@ -55,7 +55,7 @@
 - 本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担。
 - 您可以Fork本项目，但引用项目内容到其他仓库的情况，务必要遵守开源协议。
 - 本项目不保证所有直播源节目的有效性，直播内容可能受直播服务提供商因素影响而失效。
-- 项目所有文件和内容均托管在[GitHub](https://github.com/fanmingming/live)并自动构建，由项目发起人公益维护，欢迎Star本项目或点击[Issues](https://github.com/fanmingming/live/issues)反馈遇到的问题。
+- 项目所有文件均托管在[GitHub](https://github.com/fanmingming/live)并自动构建，由项目发起人公益维护，欢迎Star本项目或点击[Issues](https://github.com/fanmingming/live/issues)反馈遇到的问题。
 - 您可对本项目失效的频道源进行修改、编辑、提交拉取请求，我们会在收到拉取请求后，对您提交的内容进行验证，审核通过后会自动发布且为您署名。
 
 ## 🧑‍贡献者
