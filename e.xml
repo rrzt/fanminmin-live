@@ -3687,11 +3687,14 @@
 	<programme channel="CCTV4" start="20230422090600 +0800" stop="20230422093500 +0800">
 		<title lang="zh">今日亚洲</title>
 	</programme>
-	<programme channel="CCTV4" start="20230422093500 +0800" stop="20230422103200 +0800">
+	<programme channel="CCTV4" start="20230422093500 +0800" stop="20230422105200 +0800">
 		<title lang="zh">癸卯年（2023）黄帝故里拜祖大典-1</title>
 	</programme>
-	<programme channel="CCTV4" start="20230422103200 +0800" stop="20230422113000 +0800">
-		<title lang="zh">中国文艺-致敬经典2023-15</title>
+	<programme channel="CCTV4" start="20230422105200 +0800" stop="20230422111800 +0800">
+		<title lang="zh">鲁健访谈-2023-16</title>
+	</programme>
+	<programme channel="CCTV4" start="20230422111800 +0800" stop="20230422113000 +0800">
+		<title lang="zh">记住乡愁2018片段展播-98</title>
 	</programme>
 	<programme channel="CCTV4" start="20230422113000 +0800" stop="20230422120000 +0800">
 		<title lang="zh">海峡两岸-2023-111</title>
@@ -4047,17 +4050,14 @@
 	<programme channel="CCTV4美洲" start="20230422090000 +0800" stop="20230422093500 +0800">
 		<title lang="zh">国家记忆-2023-20</title>
 	</programme>
-	<programme channel="CCTV4美洲" start="20230422093500 +0800" stop="20230422103500 +0800">
+	<programme channel="CCTV4美洲" start="20230422093500 +0800" stop="20230422104500 +0800">
 		<title lang="zh">癸卯年（2023）黄帝故里拜祖大典-1</title>
 	</programme>
-	<programme channel="CCTV4美洲" start="20230422103500 +0800" stop="20230422112000 +0800">
+	<programme channel="CCTV4美洲" start="20230422104500 +0800" stop="20230422113000 +0800">
 		<title lang="zh">加油！妈妈第8集</title>
 	</programme>
-	<programme channel="CCTV4美洲" start="20230422112000 +0800" stop="20230422114800 +0800">
+	<programme channel="CCTV4美洲" start="20230422113000 +0800" stop="20230422120000 +0800">
 		<title lang="zh">国宝发现-2023-12</title>
-	</programme>
-	<programme channel="CCTV4美洲" start="20230422114800 +0800" stop="20230422120000 +0800">
-		<title lang="zh">记住乡愁2018片段展播-86</title>
 	</programme>
 	<programme channel="CCTV4美洲" start="20230422120000 +0800" stop="20230422130000 +0800">
 		<title lang="zh">中国新闻</title>
@@ -67299,6 +67299,9 @@
 	<programme channel="芒果独播" start="20230422122200 +0800" stop="20230422124000 +0800">
 		<title lang="zh">刺客学苑第18集</title>
 	</programme>
+	<programme channel="芒果独播" start="20230422124000 +0800" stop="20230422130100 +0800">
+		<title lang="zh">嘀！男友卡第7集</title>
+	</programme>
 	<channel id="苏州新闻综合">
 		<display-name lang="zh">苏州新闻综合</display-name>
 	</channel>
@@ -77181,6 +77184,9 @@
 	<programme channel="黑莓动画" start="20230422122600 +0800" stop="20230422123900 +0800">
 		<title lang="zh">40_熊出没之怪兽计划第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20230422124400 +0800" stop="20230422124900 +0800">
+		<title lang="zh">10_小猪佩奇第八季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -78954,6 +78960,9 @@
 	<programme channel="newtv精品纪录" start="20230422121200 +0800" stop="20230422124300 +0800">
 		<title lang="zh">第3集：一座海滨城市</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20230422124300 +0800" stop="20230422125000 +0800">
+		<title lang="zh">第1集：成都</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -79059,6 +79068,9 @@
 	<programme channel="newtv军旅剧场" start="20230422114800 +0800" stop="20230422123300 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20230422123300 +0800" stop="20230422131400 +0800">
+		<title lang="zh">38_战地迷情</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -79160,6 +79172,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20230422115200 +0800" stop="20230422123900 +0800">
 		<title lang="zh">09_梦华录</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20230422123900 +0800" stop="20230422132200 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -79646,6 +79661,9 @@
 	</programme>
 	<programme channel="newtv武搏世界" start="20230422122500 +0800" stop="20230422124000 +0800">
 		<title lang="zh">【搏击赛场】WBC超中量级过渡拳王争霸赛：贝纳维德斯VS勒米厄</title>
+	</programme>
+	<programme channel="newtv武搏世界" start="20230422124000 +0800" stop="20230422131000 +0800">
+		<title lang="zh">王者之路 第十四期</title>
 	</programme>
 	<channel id="newtv中国功夫">
 		<display-name lang="zh">NEWTV中国功夫</display-name>
