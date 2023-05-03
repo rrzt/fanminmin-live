@@ -60,7 +60,7 @@
 - 本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担。
 - 本项目不保证所有直播源的有效性，直播内容可能受直播服务提供商因素影响而失效。
 - 所有文件均托管在[GitHub](https://github.com/fanmingming/live)且自动构建，由项目发起人公益维护，欢迎Star本项目或点击[Issues](https://github.com/fanmingming/live/issues)反馈您的问题。
-- 您可以编辑本项目的m3u文件或上传缺失的频道Logo到`tv`目录下并发起拉取请求，收到请求后我们会对您提交的内容进行验证，审核通过后会自动发布且为您署名。
+- 您可以编辑本项目的m3u文件或上传缺失的频道Logo到`tv`或`radio`目录下并发起拉取请求，收到请求后我们会对您提交的内容进行验证，审核通过后会自动发布且为您署名。
 
 ## 🧑‍贡献者
 - [@fanmingming](https://github.com/fanmingming)
