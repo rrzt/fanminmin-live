@@ -62,5 +62,5 @@
 - [@drangjchen](https://github.com/drangjchen)
 
 ## 📔最后更新
-- 2023.4.26
-  - 为Global直播源添加了三沙卫视。
+- 2023.5.3
+  - 更新了直播源的播放接口，增加了一些频道。
