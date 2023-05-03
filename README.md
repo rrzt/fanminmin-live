@@ -13,7 +13,7 @@
 
 ---
 
-## 🤹‍♂️直播源地址:
+## 🤹‍♂️直播源:
 
 <table>
   <thead>
@@ -21,6 +21,7 @@
       <th>名称</th>
       <th>直播源地址</th>
       <th>完善源</th>
+      <th>最后更新</th>
     </tr>
   </thead>
   <tbody>
@@ -28,16 +29,19 @@
       <td>📺IPTV(IPV6专用)</td>
       <td><a href="https://live.fanmingming.com/tv/m3u/ipv6.m3u">https://live.fanmingming.com/tv/m3u/ipv6.m3u</a></td>
       <td><a href="https://github.com/fanmingming/live/edit/main/tv/m3u/ipv6.m3u">编辑该源</a></td>
+      <td>2023.5.3</td>
     </tr>
     <tr>
       <td>🌏Global直播源</td>
       <td><a href="https://live.fanmingming.com/tv/m3u/global.m3u">https://live.fanmingming.com/tv/m3u/global.m3u</a></td>
       <td><a href="https://github.com/fanmingming/live/edit/main/tv/m3u/global.m3u">编辑该源</a></td>
+      <td>2023.5.3</td>
     </tr>
     <tr>
       <td>📻Radio直播源</td>
       <td><a href="https://live.fanmingming.com/radio/m3u/index.m3u">https://live.fanmingming.com/radio/m3u/index.m3u</a></td>
       <td><a href="https://github.com/fanmingming/live/edit/main/radio/m3u/index.m3u">编辑该源</a></td>
+      <td>2023.5.3</td>
     </tr>
   </tbody>
 </table>
@@ -61,6 +65,6 @@
 ## 🧑‍贡献者
 - [@drangjchen](https://github.com/drangjchen)
 
-## 📔最后更新
+## 📔更新说明
 - 2023.5.3
   - 更新了直播源的播放接口，增加了一些频道。
