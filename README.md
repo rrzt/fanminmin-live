@@ -67,5 +67,5 @@
 - [@drangjchen](https://github.com/drangjchen)
 
 ## 📔更新说明
-- 2023.5.3
-  - 更新了直播源的播放接口，增加了一些频道。
+- 2023.5.6
+  - 添加了一些频道logo。
