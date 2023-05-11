@@ -35,7 +35,7 @@
       <td>🌏Global直播源</td>
       <td><a href="https://live.fanmingming.com/tv/m3u/global.m3u">https://live.fanmingming.com/tv/m3u/global.m3u</a></td>
       <td><a href="https://github.com/fanmingming/live/edit/main/tv/m3u/global.m3u">编辑该源</a></td>
-      <td>2023.5.9</td>
+      <td>2023.5.11</td>
     </tr>
     <tr>
       <td>📻Radio直播源</td>
@@ -67,5 +67,5 @@
 - [@drangjchen](https://github.com/drangjchen)
 
 ## 📔更新说明
-- 2023.5.9
-  - 频道logo的完善。
+- 2023.5.11
+  - Global源添加了一些频道。
