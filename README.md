@@ -64,12 +64,8 @@
 - 您可以Fork本项目，但引用本项目内容到其他仓库的情况，务必要遵守开源协议。
 - 本项目不保证直播频道的有效性，直播内容可能受直播服务提供商因素影响而失效。
 - 所有文件均托管在[GitHub](https://github.com/fanmingming/live)且自动构建，由项目发起人公益维护，欢迎Star本项目或点击[Issues](https://github.com/fanmingming/live/issues)反馈您的问题。
-- 您可以编辑本项目的m3u文件或上传缺失的频道Logo到`tv`或`radio`目录下并发起拉取请求，收到请求后我们会对您提交的内容进行验证，审核通过后会自动发布且为您署名。
+- 您可以编辑本项目的m3u文件或上传缺失的频道Logo到`tv`或`radio`目录下并发起拉取请求，收到请求后我们会对您提交的内容进行验证，审核通过后会自动发布。
 
-## 🧑‍贡献者
-- [@fanmingming](https://github.com/fanmingming)
-- [@drangjchen](https://github.com/drangjchen)
-
-## 📔更新说明
+## 📔更新
 - 2023.5.11
   - Global源添加了一些港澳台及国际主流电视频道。
