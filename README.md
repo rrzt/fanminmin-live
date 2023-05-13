@@ -22,7 +22,7 @@
       <th>直播源地址</th>
       <th>完善源</th>
       <th>频道数</th>
-      <th>最后更新</th>
+      <th>更新时间</th>
     </tr>
   </thead>
   <tbody>
