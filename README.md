@@ -37,7 +37,7 @@
       <td>🌏Global直播源</td>
       <td><a href="https://live.fanmingming.com/tv/m3u/global.m3u">https://live.fanmingming.com/tv/m3u/global.m3u</a></td>
       <td><a href="https://github.com/fanmingming/live/edit/main/tv/m3u/global.m3u">编辑该源</a></td>
-      <td>258个</td>
+      <td>254个</td>
       <td>2023.5.16</td>
     </tr>
     <tr>
