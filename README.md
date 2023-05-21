@@ -30,7 +30,7 @@
       <td>📺IPTV(IPV6专用)</td>
       <td><a href="https://live.fanmingming.com/tv/m3u/ipv6.m3u">https://live.fanmingming.com/tv/m3u/ipv6.m3u</a></td>
       <td><a href="https://github.com/fanmingming/live/edit/main/tv/m3u/ipv6.m3u">编辑该源</a></td>
-      <td>188个</td>
+      <td>196个</td>
       <td>2023.5.21</td>
     </tr>
     <tr>
@@ -68,5 +68,5 @@
 
 ## 📔更新
 - 2023.5.21
-  - IPv6源添加了安徽和山西的部分频道，去掉了金砖中文频道。进一步完善了频道与EPG信息的匹配。
-  - IPv4源删除了已经失效的港澳频道。
+  - IPv6源添加了安徽、贵州和山西的部分频道，去掉了金砖中文。完善了频道与EPG信息的匹配。
+  - IPv4源删除了失效的港澳和部分国际频道。
