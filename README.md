@@ -30,7 +30,7 @@
       <td>📺IPTV(IPV6专用)</td>
       <td><a href="https://live.fanmingming.com/tv/m3u/ipv6.m3u">https://live.fanmingming.com/tv/m3u/ipv6.m3u</a></td>
       <td><a href="https://github.com/fanmingming/live/edit/main/tv/m3u/ipv6.m3u">编辑该源</a></td>
-      <td>196个</td>
+      <td>208个</td>
       <td>2023.5.23</td>
     </tr>
     <tr>
@@ -68,4 +68,4 @@
 
 ## 📔更新
 - 2023.5.23
-  - 更换了频道播放接口，完善了部分频道Logo。
+  - 更新了播放接口URL。增加了一些频道。完善了部分台标。
