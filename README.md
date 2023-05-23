@@ -31,7 +31,7 @@
       <td><a href="https://live.fanmingming.com/tv/m3u/ipv6.m3u">https://live.fanmingming.com/tv/m3u/ipv6.m3u</a></td>
       <td><a href="https://github.com/fanmingming/live/edit/main/tv/m3u/ipv6.m3u">编辑该源</a></td>
       <td>196个</td>
-      <td>2023.5.21</td>
+      <td>2023.5.23</td>
     </tr>
     <tr>
       <td>🌏Global直播源</td>
@@ -67,6 +67,5 @@
 - 您可以编辑本项目的m3u文件或上传缺失的频道Logo到`tv`或`radio`目录下并发起拉取请求，收到请求后我们会对您提交的内容进行验证，审核通过后会自动发布。
 
 ## 📔更新
-- 2023.5.21
-  - IPv6源添加了安徽、贵州和山西的部分频道，去掉了金砖中文。完善了频道与EPG信息的匹配。
-  - IPv4源删除了失效的港澳和部分国际频道。
+- 2023.5.23
+  - 更换了频道播放接口，完善了部分频道Logo。
