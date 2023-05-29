@@ -30,8 +30,8 @@
       <td>📺IPTV(IPV6专用)</td>
       <td><a href="https://live.fanmingming.com/tv/m3u/ipv6.m3u">https://live.fanmingming.com/tv/m3u/ipv6.m3u</a></td>
       <td><a href="https://github.com/fanmingming/live/edit/main/tv/m3u/ipv6.m3u">编辑该源</a></td>
-      <td>210个</td>
-      <td>2023.5.26</td>
+      <td>128个</td>
+      <td>2023.5.29</td>
     </tr>
     <tr>
       <td>🌏Global直播源</td>
@@ -68,5 +68,5 @@
 
 ## 📔更新
 - 2023.5.29
-  - 添加了一个v6pb.m3u文件，相比IPv6源去掉了地区频道，且大部分频道支持回看(需使用IPv6网络观看)。
-    - 🔗 https://live.fanmingming.com/tv/m3u/v6pb.m3u
+  - 为方便维护，ipv6.m3u频道将仅添加支持双栈或纯IPv6播放链接,不再加入IPv4的链接。
+  - 原IPv6源的文件名已变更为ipv6plus.m3u。
