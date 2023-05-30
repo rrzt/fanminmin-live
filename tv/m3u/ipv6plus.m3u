@@ -35,14 +35,8 @@ https://cntv.sbs/v605?id=CCTV-15-yyH265
 https://cntv.sbs/v605?id=CCTV-16
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17
 https://cntv.sbs/v605?id=CCTV-17
-#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="央视频道",CCTV4欧洲
-
-#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="央视频道",CCTV4美洲
-
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN英语
 https://cntv.sbs/v605?id=CGTN
-#EXTINF:-1 tvg-id="CGTNDOCUMENTARY" tvg-name="CGTNDOCUMENTARY" tvg-logo="https://live.fanmingming.com/tv/CGTNDoc.png" group-title="央视频道",CGTN记录
-https://livedoc.cgtn.com/500d/prog_index.m3u8
 #EXTINF:-1 tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="国际频道",NHKWORLD
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-id="亚洲新闻台" tvg-name="亚洲新闻台" tvg-logo="https://live.fanmingming.com/tv/亚洲新闻.png" group-title="国际频道",亚洲新闻
@@ -53,8 +47,8 @@ https://cntv.sbs/v605?id=test1
 https://cntv.sbs/v605?id=test2
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳频道",凤凰香港
 https://cntv.sbs/fs?id=fhhk
-#EXTINF:-1 tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://live.fanmingming.com/tv/澳亚卫视.png" group-title="港澳频道",澳亚卫视
-https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+#EXTINF:-1 tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png" group-title="港澳频道",澳门莲花
+https://cntv.sbs/lhws
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视频道",CHC动作电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视频道",CHC家庭影院
@@ -431,6 +425,14 @@ https://i.cntv.sbs/hls/cbn.m3u8?id=cqrongmei
 https://cntv.sbs/v605?id=jtlc
 #EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="江苏频道",江苏财富天下
 https://cntv.sbs/v605?id=cftx
+#EXTINF:-1 tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://live.fanmingming.com/tv/求索动物.png" group-title="华数系列",求索动物
+http://[2409:8087:4402:20:1:1216:401:41]:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
+#EXTINF:-1 tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://live.fanmingming.com/tv/求索生活.png" group-title="华数系列",求索生活
+http://[2409:8087:4402:20:1:1216:401:43]:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
+#EXTINF:-1 tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://live.fanmingming.com/tv/求索科学.png" group-title="华数系列",求索科学
+http://[2409:8087:4402:20:1:1216:401:46]:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
+#EXTINF:-1 tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="华数系列",求索纪录
+http://[2409:8087:4402:20:1:1216:401:38]:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
 #EXTINF:-1 tvg-id="NEWTV超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="央视频道",超级综艺
 
 #EXTINF:-1 tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级体育.png" group-title="央视频道",超级体育
@@ -477,6 +479,8 @@ https://cntv.sbs/v605?id=zgqx
 
 #EXTINF:-1 tvg-id="CNC中文" tvg-name="CNC中文" tvg-logo="https://live.fanmingming.com/tv/CNC.png" group-title="新华社",CNC中文
 
+#EXTINF:-1 tvg-id="CGTNDOCUMENTARY" tvg-name="CGTNDOCUMENTARY" tvg-logo="https://live.fanmingming.com/tv/CGTNDoc.png" group-title="央视频道",CGTN记录
+https://livedoc.cgtn.com/500d/prog_index.m3u8
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视频道",CGTN俄语
 https://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="央视频道",CGTN法语
@@ -485,14 +489,6 @@ https://livefr.cgtn.com/1000f/prog_index.m3u8
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
 https://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1 tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://live.fanmingming.com/tv/求索动物.png" group-title="华数系列",求索动物
-http://[2409:8087:4402:20:1:1216:401:41]:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
-#EXTINF:-1 tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://live.fanmingming.com/tv/求索生活.png" group-title="华数系列",求索生活
-http://[2409:8087:4402:20:1:1216:401:43]:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
-#EXTINF:-1 tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://live.fanmingming.com/tv/求索科学.png" group-title="华数系列",求索科学
-http://[2409:8087:4402:20:1:1216:401:46]:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
-#EXTINF:-1 tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="华数系列",求索纪录
-http://[2409:8087:4402:20:1:1216:401:38]:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
 #EXTINF:-1 tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="中国移动",咪咕足球
 
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="超清频道",CCTV-4K
@@ -505,10 +501,10 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3
 http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="超清频道",爱上4K
 http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
-#EXTINF:-1 tvg-id="苏州-4K" tvg-name="苏州-4K" tvg-logo="https://live.fanmingming.com/tv/suzhou4k.png" group-title="超清频道",苏州-4K
+#EXTINF:-1 tvg-id="苏州-4K" tvg-name="苏州-4K" tvg-logo="https://live.fanmingming.com/tv/suzhou4k.png" group-title="超清频道",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="超清频道",4K超高清电影
 https://cntv.sbs/v605?id=emdy4k_8000
 #EXTINF:-1 tvg-id="4K试验" tvg-name="4K试验" tvg-logo="https://live.fanmingming.com/tv/hn4k.png" group-title="超清频道",河南4K试验
 http://[2409:8087:4400:20:1:a0f:12:33]:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
-#EXTINF:-1 tvg-id="北京IPTV-4K" tvg-name="北京IPTV-4K" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K.png" group-title="超清频道",北京IPTV-4K
+#EXTINF:-1 tvg-id="北京IPTV-4K" tvg-name="北京IPTV-4K" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K.png" group-title="超清频道",北京IPTV4K
