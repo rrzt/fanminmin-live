@@ -30,7 +30,7 @@
       <td>📺IPTV(IPV6专用)</td>
       <td><a href="https://live.fanmingming.com/tv/m3u/ipv6.m3u">https://live.fanmingming.com/tv/m3u/ipv6.m3u</a></td>
       <td><a href="https://github.com/fanmingming/live/edit/main/tv/m3u/ipv6.m3u">编辑该源</a></td>
-      <td>130个</td>
+      <td>128个</td>
       <td>2023.6.3</td>
     </tr>
     <tr>
