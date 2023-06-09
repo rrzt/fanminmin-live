@@ -172,9 +172,9 @@ https://cntv.sbs/live?auth=230601&id=hyyy
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="其他",中国天气
 https://cntv.sbs/live?auth=230601&id=zgtq
 #EXTINF:-1 tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png" group-title="港澳台",莲花卫视
-https://cntv.sbs/lhws
+https://cntv.sbs/lhws?auth=230601
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台",凤凰香港
-https://cntv.sbs/fs?id=fhhk
+https://cntv.sbs/fs?id=fhhk&auth=230601
 #EXTINF:-1 group-title="测试频道",日·NHK
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 group-title="测试频道",日·QVC
