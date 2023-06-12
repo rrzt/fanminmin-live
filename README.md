@@ -53,7 +53,7 @@
 ## 🛠️工具
 - 🆕EPG接口地址(测试)
   -  [https://live.fanmingming.com/e.xml](https://live.fanmingming.com/e.xml)
-- M3U8 Web Player
+- 🌐M3U8 Web Player
   - Demo🔗 [https://live.fanmingming.com/player/?vurl=https://livedoc.cgtn.com/500d/prog_index.m3u8](https://live.fanmingming.com/player/?vurl=https://livedoc.cgtn.com/500d/prog_index.m3u8)
 
 ## 📖说明
@@ -67,5 +67,5 @@
 - 您可以编辑本项目的m3u文件或上传缺失的频道Logo到`tv`或`radio`目录下并发起拉取请求，收到请求后我们会对您提交的内容进行验证，审核通过后会自动发布。
 
 ## 📔更新
-- 2023.6.7
-  - ipv6源去掉了部分失效的频道。
+- 2023.6.16
+  - 防止盗链，更新了播放接口的auth参数。请刷新以正常观看或收听节目。
