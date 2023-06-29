@@ -175,6 +175,26 @@ https://cntv.sbs/live?auth=230612&id=zgtq
 https://cntv.sbs/lhws?auth=230612
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台",凤凰香港
 https://cntv.sbs/fs?id=fhhk&auth=230612
+#EXTINF:-1 group-title="测试频道",J2台
+http://sc2022.stream-link.org/tv2306.php?id=h03
+#EXTINF:-1 group-title="测试频道",无线新闻台
+http://sc2022.stream-link.org/tv2306.php?id=h04
+#EXTINF:-1 group-title="测试频道",无线财经体育资讯
+http://sc2022.stream-link.org/tv2306.php?id=h05
+#EXTINF:-1 group-title="测试频道",RTHK31
+http://sc2022.stream-link.org/tv2306.php?id=h08
+#EXTINF:-1 group-title="测试频道",RTHK32
+http://sc2022.stream-link.org/tv2306.php?id=h09
+#EXTINF:-1 group-title="测试频道",中天综合
+http://sc2022.stream-link.org/tv2306.php?id=h10
+#EXTINF:-1 group-title="测试频道",中天新闻
+http://sc2022.stream-link.org/tv2306.php?id=h11
+#EXTINF:-1 group-title="测试频道",香港国际财经台
+http://sc2022.stream-link.org/tv2306.php?id=h12
+#EXTINF:-1 group-title="测试频道",香港开电视
+http://sc2022.stream-link.org/tv2306.php?id=h13
+#EXTINF:-1 group-title="测试频道",香港开电视资讯台
+http://sc2022.stream-link.org/tv2306.php?id=h14
 #EXTINF:-1 group-title="测试频道",日·NHK
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 group-title="测试频道",日·QVC
@@ -371,8 +391,6 @@ http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 group-title="测试频道",日本UN WeTV
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 group-title="测试频道",J2台
-https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 #EXTINF:-1 group-title="测试频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="测试频道",香港佛陀
