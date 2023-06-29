@@ -59,7 +59,7 @@
   - Demo🔗 [https://live.fanmingming.com/player/?vurl=https://livedoc.cgtn.com/500d/prog_index.m3u8](https://live.fanmingming.com/player/?vurl=https://livedoc.cgtn.com/500d/prog_index.m3u8)
 
 ## 📖说明
-- 所有播放源均收集于互联网，仅供测试研究使用，切勿商用。
+- 所有播放源均收集于互联网，仅供测试研究使用，不得商用。
 - 通过M3U8 Web Player测试直播源需使用https协议的直播源链接。
 - 部分广播电台节目播出具有一定的时效性，需要在指定时段进行收听。
 - 本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担。
@@ -71,3 +71,4 @@
 ## 📔更新
 - 2023.6.29
   - 上传了一些地方电视频道的Logo，顺便添加了一些频道。
+  - 添加了M3U到TXT格式的转换工具，支持转换国内直连情况下无法访问的m3u链接。
