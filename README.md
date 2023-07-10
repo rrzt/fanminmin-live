@@ -37,8 +37,8 @@
       <td>🌏Global直播源</td>
       <td><a href="https://live.fanmingming.com/tv/m3u/global.m3u">https://live.fanmingming.com/tv/m3u/global.m3u</a></td>
       <td><a href="https://github.com/fanmingming/live/edit/main/tv/m3u/global.m3u">编辑该源</a></td>
-      <td>204个</td>
-      <td>2023.6.29</td>
+      <td>227个</td>
+      <td>2023.7.10</td>
     </tr>
     <tr>
       <td>📻Radio直播源</td>
@@ -69,6 +69,6 @@
 - 您可以编辑本项目的m3u文件或上传缺失的频道Logo到`tv`或`radio`目录下并发起拉取请求，收到请求后我们会对您提交的内容进行验证，审核通过后会自动发布。
 
 ## 📔更新
-- 2023.6.29
-  - 上传了一些地方电视频道的Logo，顺便添加了一些频道。
-  - 添加了M3U到TXT格式的转换工具，支持转换国内直连情况下无法访问的m3u链接。
+- 2023.7.10
+  - Global源添加了一些频道。
+  - 更新了auth参数，如提示无法播放请重新刷新直播列表。
