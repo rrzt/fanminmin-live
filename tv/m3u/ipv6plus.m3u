@@ -367,8 +367,6 @@ https://www.fanmingming.com/live/nm.php?auth=2307100804&id=nm
 https://www.fanmingming.com/live/nm.php?auth=2307100804&id=my
 #EXTINF:-1 tvg-id="内蒙古蒙语文化" tvg-name="内蒙古蒙语文化" tvg-logo="https://live.fanmingming.com/tv/neimeng.png" group-title="内蒙频道",内蒙古蒙语文化
 https://www.fanmingming.com/live/nm.php?auth=2307100804&id=wh
-#EXTINF:-1 tvg-id="足球频道" tvg-name="足球频道" tvg-logo="https://live.fanmingming.com/tv/足球频道.png" group-title="内蒙频道",足球频道
-http://nmglive.imfc.cn/5n1r1c/182396.m3u8
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="内蒙频道",黑莓电影
 
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="内蒙频道",黑莓动画
@@ -505,5 +503,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/32212
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="超清频道",4K超高清电影
 https://cntv.sbs/ipv6?auth=2307100804&id=emdy4k_8000
-#EXTINF:-1 tvg-name="英雄联盟赛事" tvg-logo="https://huyaimg.msstatic.com/avatar/1042/6f/3626ef611e990cbbcefab8e1bbc561_180_135.jpg" group-title="网游直播",英雄联盟赛事
+#EXTINF:-1 tvg-name="英雄联盟赛事" tvg-logo="https://huyaimg.msstatic.com/avatar/1042/6f/3626ef611e990cbbcefab8e1bbc561_180_135.jpg" group-title="游戏直播",英雄联盟赛事
 https://go.0472.org/live/huya/660000
+#EXTINF:-1 tvg-name="王者荣耀赛事" tvg-logo="https://huyaimg.msstatic.com/avatar/1051/e3/e82730b8f47f8718299bbf676a5f34_180_135.jpg" group-title="游戏直播",王者荣耀赛事
+https://go.0472.org/live/huya/660164
