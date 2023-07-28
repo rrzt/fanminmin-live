@@ -30,15 +30,15 @@
       <td>📺IPTV(IPV6专用)</td>
       <td><a href="https://live.fanmingming.com/tv/m3u/ipv6.m3u">https://live.fanmingming.com/tv/m3u/ipv6.m3u</a></td>
       <td><a href="https://github.com/fanmingming/live/edit/main/tv/m3u/ipv6.m3u">编辑该源</a></td>
-      <td>112个</td>
-      <td>2023.6.16</td>
+      <td>113个</td>
+      <td>2023.7.28</td>
     </tr>
     <tr>
       <td>🌏Global直播源</td>
       <td><a href="https://live.fanmingming.com/tv/m3u/global.m3u">https://live.fanmingming.com/tv/m3u/global.m3u</a></td>
       <td><a href="https://github.com/fanmingming/live/edit/main/tv/m3u/global.m3u">编辑该源</a></td>
       <td>198个</td>
-      <td>2023.7.12</td>
+      <td>2023.7.28</td>
     </tr>
     <tr>
       <td>📻Radio直播源</td>
