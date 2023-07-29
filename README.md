@@ -30,8 +30,8 @@
       <td>📺IPTV(IPV6专用)</td>
       <td><a href="https://live.fanmingming.com/tv/m3u/ipv6.m3u">https://live.fanmingming.com/tv/m3u/ipv6.m3u</a></td>
       <td><a href="https://github.com/fanmingming/live/edit/main/tv/m3u/ipv6.m3u">编辑该源</a></td>
-      <td>113个</td>
-      <td>2023.7.28</td>
+      <td>120个</td>
+      <td>2023.7.29</td>
     </tr>
     <tr>
       <td>🌏Global直播源</td>
@@ -69,5 +69,5 @@
 - 您可以编辑本项目的m3u文件或上传缺失的频道Logo到`tv`或`radio`目录下并发起拉取请求，收到请求后我们会对您提交的内容进行验证，审核通过后会自动发布。
 
 ## 📔更新
-- 2023.7.28
-  - 更新了Auth。
+- 2023.7.29
+  - 更新了IPv6源的节目。
