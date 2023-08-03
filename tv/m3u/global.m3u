@@ -169,6 +169,8 @@ https://cntv.sbs/live?auth=2307280808&id=cetv2
 http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
 #EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="其他",CETV4
 https://cntv.sbs/live?auth=2307280808&id=cetv4
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="其他"河南梨园
+https://www.fanmingming.com/live/hn.php?auth=2307280808&id=154
 #EXTINF:-1 tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://live.fanmingming.com/tv/华语影院.png" group-title="其他",华语影院
 https://cntv.sbs/live?auth=2307280808&id=hyyy
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="其他",中国天气
@@ -301,8 +303,6 @@ http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 group-title="测试频道",番薯
 http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-#EXTINF:-1 group-title="测试频道",点掌财经
-http://cclive2.aniu.tv/live/anzb.m3u8
 #EXTINF:-1 group-title="测试频道",耀才财经
 http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 #EXTINF:-1 group-title="测试频道",耀才财经
