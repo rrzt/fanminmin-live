@@ -170,9 +170,9 @@ http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
 #EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="其他",CETV4
 https://pi.0472.org/live?auth=202308110958&id=cetv4
 #EXTINF:-1 tvg-id="梨园" tvg-name=梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="其他",梨园频道
-https://www.fanmingming.com/live/hn.php?auth=202308110958&id=154
+https://pi.0472.org/live/ly.php?auth=202308110958
 #EXTINF:-1 tvg-id="梨园" tvg-name=梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="其他",梨园频道(备)
-https://pi.0472.org/tv/gdtv.php?id=1937
+https://pi.0472.org/live/ly2.php?auth=202308110958
 #EXTINF:-1 tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://live.fanmingming.com/tv/华语影院.png" group-title="其他",华语影院
 https://pi.0472.org/live?auth=202308110958&id=hyyy
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="其他",中国天气
@@ -182,7 +182,7 @@ https://cntv.sbs/lhws?auth=202308110958
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台",凤凰香港
 https://cntv.sbs/fs?id=fhhk&auth=202308110958
 #EXTINF:-1 group-title="测试频道",J2台
-http://sc2022.stream-link.org/tv2306.php?id=h03
+https://hs.178816.online/live/j2/index.m3u8
 #EXTINF:-1 group-title="测试频道",无线新闻台
 http://sc2022.stream-link.org/tv2306.php?id=h04
 #EXTINF:-1 group-title="测试频道",无线财经体育资讯
