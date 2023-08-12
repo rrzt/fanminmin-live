@@ -76,4 +76,4 @@
 - 支持项目，赋予更多流量，共创更好体验，让服务更强大！
   - 自2022年10月创立以来，得益于大家的支持，项目已获得超过6K颗星星，在中文GitHub项目中名声鹊起。然而，由于部分服务依赖Vercel，在爆发式流量下，免费账户已难以维持两周。无奈之下，不得不将部分内容迁移到树莓派上，降低使用体验。为重回正轨，急需资金以支付Vercel及域名费用。感激一路相伴，项目将持续免费。所有款项用途将透明公示于项目的[Sponsor.MD](https://github.com/fanmingming/live/blob/main/Sponsor.MD)。
 
-<img alt="Sponsor" src="https://raw.githubusercontent.com/fanmingming/live/main/sponsor.png">
+<img alt="Sponsor" src="https://live.fanmingming.com/sponsor.png">
