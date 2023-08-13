@@ -183,19 +183,21 @@ https://cntv.sbs/tv/fhhk.php
 https://hs.178816.online/live/j2/index.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳",翡翠台
 https://hs.178816.online/live/fct/index.m3u8
-#EXTINF:-1 group-title="测试频道",无线新闻台
+#EXTINF:-1 tvg-id="人间卫视" tvg-name="人间卫视" tvg-logo="https://live.fanmingming.com/tv/人间卫视.png" group-title="宗教",人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港澳",无线新闻台
 http://sc2022.stream-link.org/tv2306.php?id=h04
-#EXTINF:-1 group-title="测试频道",无线财经体育资讯
+#EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://live.fanmingming.com/tv/无线财经台.png" group-title="港澳",无线财经台
 http://sc2022.stream-link.org/tv2306.php?id=h05
-#EXTINF:-1 group-title="测试频道",Now新闻台
+#EXTINF:-1 tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://live.fanmingming.com/tv/NOW新闻台.png" group-title="港澳",NOW新闻台
 http://sc2022.stream-link.org/tv2306.php?id=h08
-#EXTINF:-1 group-title="测试频道",RTHK31
+#EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="港澳",RTHK31
 http://sc2022.stream-link.org/tv2306.php?id=h09
-#EXTINF:-1 group-title="测试频道",RTHK32
+#EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="港澳",RTHK32
 http://sc2022.stream-link.org/tv2306.php?id=h10
-#EXTINF:-1 group-title="测试频道",香港国际财经台
+#EXTINF:-1 tvg-id="香港国际财经台" tvg-name="香港国际财经台" tvg-logo="https://live.fanmingming.com/tv/香港国际财经台.png" group-title="港澳",香港国际财经台
 http://sc2022.stream-link.org/tv2306.php?id=h13
-#EXTINF:-1 group-title="测试频道",香港国际财经台
+#EXTINF:-1 tvg-id="香港国际财经台" tvg-name="香港国际财经台" tvg-logo="https://live.fanmingming.com/tv/香港国际财经台.png" group-title="港澳",香港国际财经台
 http://sc2022.stream-link.org/tv2306.php?id=h14
 #EXTINF:-1 group-title="测试频道",日·NHK
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
@@ -227,8 +229,6 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
 #EXTINF:-1 group-title="测试频道",韩·职业
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",CGTN
-http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="测试频道",CGTN阿语
 http://livear.cgtn.com/1000a/prog_index.m3u8
 #EXTINF:-1 group-title="测试频道",CGTN西语
