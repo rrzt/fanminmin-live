@@ -171,34 +171,46 @@ http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
 https://cntv.sbs/tv?auth=230813&id=cetv4
 #EXTINF:-1 tvg-id="梨园" tvg-name=梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="其他",梨园频道
 https://pi.0472.org/tv/hn.php?id=154
-#EXTINF:-1 tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://live.fanmingming.com/tv/华语影院.png" group-title="其他",华语影院
-https://cntv.sbs/tv?auth=230813&id=hyyy
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="其他",中国天气
 https://cntv.sbs/tv?auth=230813&id=zgtq
+#EXTINF:-1 tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://live.fanmingming.com/tv/华语影院.png" group-title="其他",华语影院
+https://cntv.sbs/tv?auth=230813&id=hyyy
+#EXTINF:-1 tvg-id="电竞天堂" tvg-name="电竞天堂" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="其他",电竞天堂
+https://cntv.sbs/tv?auth=230813&id=djtt
+#EXTINF:-1 tvg-id="青春动漫" tvg-name="青春动漫" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="其他",青春动漫
+https://cntv.sbs/tv?auth=230813&id=qcdm
+#EXTINF:-1 tvg-id="星光影院" tvg-name="星光影院" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="其他",星光影院
+https://cntv.sbs/tv?auth=230813&id=xgyy
+#EXTINF:-1 tvg-id="谍战剧场" tvg-name="谍战剧场" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="其他",谍战剧场
+https://cntv.sbs/tv?auth=230813&id=dzjc
+#EXTINF:-1 tvg-id="全球大片" tvg-name="全球大片" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="其他",全球大片
+https://cntv.sbs/tv?auth=230813&id=qqdp
+#EXTINF:-1 tvg-id="热门剧场" tvg-name="热门剧场" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="其他",热门剧场
+https://cntv.sbs/tv?auth=230813&id=rmjc
+#EXTINF:-1 tvg-id="热门综艺" tvg-name="热门综艺" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="其他",热门综艺
+https://cntv.sbs/tv?auth=230813&id=rmzy
 #EXTINF:-1 tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png" group-title="港澳",莲花卫视
 https://cntv.sbs/tv/lhws.php
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳",凤凰香港
 https://cntv.sbs/tv/fhhk.php
 #EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="https://live.fanmingming.com/tv/J2.png" group-title="港澳",J2台
-https://hs.178816.online/live/j2/index.m3u8
+
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳",翡翠台
-https://hs.178816.online/live/fct/index.m3u8
+
 #EXTINF:-1 tvg-id="人间卫视" tvg-name="人间卫视" tvg-logo="https://live.fanmingming.com/tv/人间卫视.png" group-title="其他",人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="港澳",无线新闻台
-http://sc2022.stream-link.org/tv2306.php?id=h04
+
 #EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://live.fanmingming.com/tv/无线财经台.png" group-title="港澳",无线财经台
-http://sc2022.stream-link.org/tv2306.php?id=h05
+
 #EXTINF:-1 tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://live.fanmingming.com/tv/NOW新闻台.png" group-title="港澳",NOW新闻台
-http://sc2022.stream-link.org/tv2306.php?id=h08
+
 #EXTINF:-1 tvg-id="RTHK31" tvg-name="RTHK31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="港澳",RTHK31
-http://sc2022.stream-link.org/tv2306.php?id=h09
+
 #EXTINF:-1 tvg-id="RTHK32" tvg-name="RTHK32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="港澳",RTHK32
-http://sc2022.stream-link.org/tv2306.php?id=h10
+
 #EXTINF:-1 tvg-id="香港国际财经台" tvg-name="香港国际财经台" tvg-logo="https://live.fanmingming.com/tv/香港国际财经台.png" group-title="港澳",香港国际财经台
-http://sc2022.stream-link.org/tv2306.php?id=h13
-#EXTINF:-1 tvg-id="香港国际财经台" tvg-name="香港国际财经台" tvg-logo="https://live.fanmingming.com/tv/香港国际财经台.png" group-title="港澳",香港国际财经台
-http://sc2022.stream-link.org/tv2306.php?id=h14
+
 #EXTINF:-1 group-title="测试频道",日·NHK
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 group-title="测试频道",日·QVC
@@ -219,8 +231,6 @@ http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
 #EXTINF:-1 group-title="测试频道",韩·KBC
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-#EXTINF:-1 group-title="测试频道",韩·MTN
-http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
 #EXTINF:-1 group-title="测试频道",韩·SBS
 http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1 group-title="测试频道",韩·阿里郎
@@ -245,26 +255,18 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="测试频道",NDTV 24X7[640*480]
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1 group-title="测试频道",THAIPBS-3
-http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
 #EXTINF:-1 group-title="测试频道",VB
 http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
-#EXTINF:-1 group-title="测试频道",ZEEALWAN50
-http://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="测试频道",半·新闻
 http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 #EXTINF:-1 group-title="测试频道",俄·IGITV蓝光
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="测试频道",俄·RBC(Opt-1)[996*560]
 http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1 group-title="测试频道",俄·音乐TROSoyuz
-http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 group-title="测试频道",法·24台
 http://tv.balkanweb.com/news24/livestream/playlist.m3u8
 #EXTINF:-1 group-title="测试频道",法·24台
 http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
-#EXTINF:-1 group-title="测试频道",法·时尚
-http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 #EXTINF:-1 group-title="测试频道",法·时尚
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 #EXTINF:-1 group-title="测试频道",美·NASA Public Channel
@@ -279,8 +281,6 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
 #EXTINF:-1 group-title="测试频道",泰·公共三台
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 group-title="测试频道",乌·100ws
-http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 group-title="测试频道",乌·M2音乐
 http://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1 group-title="测试频道",西·加利西亚欧洲体育电视台
@@ -291,14 +291,6 @@ http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 group-title="测试频道",越·HBTV
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",TVB J2
-https://j3.lhlh.app/mv.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="测试频道",澳亚卫视
-https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-#EXTINF:-1 group-title="测试频道",TVBS新闻
-http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1 group-title="测试频道",TVBS新闻
-http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 group-title="测试频道",民视新闻HD
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 group-title="测试频道",番薯
@@ -315,10 +307,6 @@ http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="测试频道",moviesphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",AlarabyTV
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",ComedyChannel
-https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="测试频道",EdgeSport
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="测试频道",CanadaOne
@@ -327,16 +315,10 @@ http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 group-title="测试频道",InsightTV
 https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",Inwonder
-https://inwonder-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="测试频道",Astrakhan24(Opt-2)
 http://streaming.astrakhan.ru/astrakhan24/index.m3u8
-#EXTINF:-1 group-title="测试频道",UgraTV
-http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
 #EXTINF:-1 group-title="测试频道",Самара
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",UniverTV
-http://cdn.universmotri.ru/live/hq.sdp/chunklist_w1792531.m3u8
 #EXTINF:-1 group-title="测试频道",Comedy
 http://51.210.199.27/hls/stream.m3u8
 #EXTINF:-1 group-title="测试频道",Documentary
@@ -367,28 +349,18 @@ https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 #EXTINF:-1 group-title="测试频道",越南-VBSTV
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",印尼-TVRISports
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="测试频道",印尼-TVRIKanal3
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="测试频道",印尼-METROTV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 group-title="测试频道",伊朗-PBCTapeshTV
 http://iptv.tapesh.tv/tapesh/playlist.m3u8
 #EXTINF:-1 group-title="测试频道",伊拉克-SharqiyaNews
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 group-title="测试频道",日本Shop Channel
 https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1 group-title="测试频道",日本UN WeTV
-https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 group-title="测试频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="测试频道",香港佛陀
 http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 #EXTINF:-1 group-title="测试频道",香港佛陀
 https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",长城精品
-http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 #EXTINF:-1 group-title="测试频道",长城精品
 http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
 #EXTINF:-1 group-title="测试频道",金砖中文
