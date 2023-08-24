@@ -28,8 +28,8 @@
       <tr>
       <td>🌏Global直播源</td>
       <td><a href="https://live.fanmingming.com/tv/m3u/global.m3u">https://live.fanmingming.com/tv/m3u/global.m3u</a></td>
-      <td>176个</td>
-      <td>2023.8.20</td>
+      <td>195个</td>
+      <td>2023.8.24</td>
     </tr>
     <tr>
       <td>📺IPTV(IPV6专用)</td>
@@ -65,11 +65,11 @@
 - 您可以编辑本项目的m3u文件或上传缺失的频道Logo到`tv`或`radio`目录下并发起拉取请求，收到请求后我们会对您提交的内容进行验证，审核通过后会自动发布。
 
 ## 📔更新
-- 2023.8.20
-  - 最近可能是又🐐了，没能及时更新。Global源去掉了一些无法播放的频道，增加了一些中文频道。
+- 2023.8.24
+  - Global源添加了一些频道。
 
 ## ☕捐赠
 - 支持项目，赋予更多流量，共创更好体验，让服务更强大！
-  - 自2022年10月创立以来，得益于大家的支持，项目已获得超过6K颗星星，在中文GitHub项目中名声鹊起。感激一路相伴，项目将持续免费。所有款项用途将透明公示于项目的[Sponsor.MD](https://github.com/fanmingming/live/blob/main/Sponsor.MD)。
+  - 自2022年10月创立以来，得益于大家的支持，项目已获得超过6K颗星星，在中文GitHub项目中名声鹊起。感激一路相伴，项目将持续免费。所有款项将透明公示于项目的[Sponsor.MD](https://github.com/fanmingming/live/blob/main/Sponsor.MD)。
 
 <img alt="Sponsor" src="https://live.fanmingming.com/sponsor.png">
