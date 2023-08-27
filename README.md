@@ -29,7 +29,7 @@
       <td>🌏Global直播源</td>
       <td><a href="https://live.fanmingming.com/tv/m3u/global.m3u">https://live.fanmingming.com/tv/m3u/global.m3u</a></td>
       <td>200个</td>
-      <td>2023.8.26</td>
+      <td>2023.8.27</td>
     </tr>
     <tr>
       <td>📺IPTV(IPV6专用)</td>
@@ -40,8 +40,8 @@
     <tr>
       <td>📻Radio直播源</td>
       <td><a href="https://live.fanmingming.com/radio/m3u/index.m3u">https://live.fanmingming.com/radio/m3u/index.m3u</a></td>
-      <td>317个</td>
-      <td>2023.5.3</td>
+      <td>304个</td>
+      <td>2023.8.27</td>
     </tr>
   </tbody>
 </table>
@@ -65,8 +65,10 @@
 - 您可以编辑本项目的m3u文件或上传缺失的频道Logo到`tv`或`radio`目录下并发起拉取请求，收到请求后我们会对您提交的内容进行验证，审核通过后会自动发布。
 
 ## 📔更新
-- 2023.8.26
-  - Global源添加了一个测试频道，去掉了无法播放的频道。
+- 2023.8.27
+  - Global源优化了几个央视外语频道的台标，去掉了测试频道。（一个频道流量一天走100多GB有点撑不住）
+  - Radio源删除了一部分无法播放的频道。
+  - 增加了CCTV8K的台标。
 
 ## ☕捐赠
 - 支持项目，赋予更多流量，共创更好体验，让服务更强大！
