@@ -5,9 +5,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <meta name="author" content="毛静文,Momo">
   <meta name="keywords" content="m3u8 downloader for web">
-  <meta name="description" content="m3u8 downloader for web, Momo's Blog, LuckyMomo">
+  <meta name="description" content="m3u8 downloader for web">
   <title>m3u8 downloader</title>
   <style>
   /*全局设置*/
@@ -118,7 +117,7 @@
     background-size: 30px 30px;
     background-repeat: no-repeat;
     background-position: center center;
-    background-image: url(https://blog.luckly-mjw.cn/tool-show/m3u8-downloader/imgs/close.png);
+    background-image: url(https://live.fanmingming.com/m3u8/imgs/close.png);
     background-color: rgba(0, 0, 0, 0.5);
   }
   .m-p-refer .close:hover {
@@ -344,16 +343,14 @@
 <section id="m-app" v-cloak>
   <!--顶部操作提示-->
   <section class="m-p-action g-box">{{tips}}</section>
-  <a class="m-p-help" target="_blank" href="https://github.com/Momo707577045/m3u8-downloader/blob/master/README-EN.md">?</a>
-  <a class="m-p-tamper" target="_blank" href="https://blog.luckly-mjw.cn/tool-show/m3u8-downloader/m3u8-downloader.user.js">tamperMonkey plugin</a>
+  <a class="m-p-tamper" target="_blank" href="https://live.fanmingming.com/m3u8/m3u8-downloader.user.js">tamperMonkey plugin</a>
   <a class="m-p-github" target="_blank" href="https://github.com/Momo707577045/m3u8-downloader">github</a>
   <a class="m-p-language" href="https://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html">中文版</a>
-  <a class="m-p-other" target="_blank" href="https://blog.luckly-mjw.cn/tool-show/index.html">other efficiency tools</a>
 
   <!--广告-->
-  <a v-if="isShowRefer" class="m-p-refer" target="_blank" href="https://segmentfault.com/a/1190000024416860">
-    <img src="https://blog.luckly-mjw.cn/tool-show/m3u8-downloader/imgs/001.png" class="link">
-    <img src="https://blog.luckly-mjw.cn/tool-show/m3u8-downloader/imgs/003.png" class="text">
+  <a v-if="isShowRefer" class="m-p-refer" target="_blank" href="https://live.fanmingming.com">
+    <img src="/m3u8/imgs/001.png" class="link">
+    <img src="/m3u8/imgs/003.png" class="text">
     <i class="close" @click.prevent="isShowRefer=false"></i>
   </a>
 
