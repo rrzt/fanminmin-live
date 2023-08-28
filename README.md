@@ -35,7 +35,7 @@
       <td>📺IPTV(IPV6专用)</td>
       <td><a href="https://live.fanmingming.com/tv/m3u/ipv6.m3u">https://live.fanmingming.com/tv/m3u/ipv6.m3u</a></td>
       <td>120个</td>
-      <td>2023.8.13</td>
+      <td>2023.8.28</td>
     </tr>
     <tr>
       <td>📻Radio直播源</td>
@@ -69,7 +69,8 @@
 ## 📔更新
 - 2023.8.28
   - 新增m3u8下载工具，支持在线将m3u8链接文件下载为mp4文件。
-  - 以上工具来自开源项目 https://github.com/Momo707577045/m3u8-downloader (修复了首页代码中URL路径错误的问题，去掉了代码中的百度统计追踪，删除了英文版页面。)
+  - 以上工具来自开源项目 https://github.com/Momo707577045/m3u8-downloader (修复了其项目首页代码中URL路径错误的问题，去掉了代码中的百度统计追踪，删除了英文版页面。)
+  - 部分地区网友反馈无法使用IPv6源正常观看节目，已将大部分频道通过域名跳转的方式更换为了IPv6地址的形式。
 
 ## ☕捐赠
 - 支持项目，赋予更多流量，共创更好体验，让服务更强大！
