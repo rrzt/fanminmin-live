@@ -28,8 +28,8 @@
       <tr>
       <td>🌏Global直播源</td>
       <td><a href="https://live.fanmingming.com/tv/m3u/global.m3u">https://live.fanmingming.com/tv/m3u/global.m3u</a></td>
-      <td>206个</td>
-      <td>2023.9.4</td>
+      <td>204个</td>
+      <td>2023.9.5</td>
     </tr>
     <tr>
       <td>📺IPTV(IPV6专用)</td>
@@ -69,7 +69,7 @@
 ## 📔更新
 - 2023.9.4
   - 🔥Global源大部分频道已支持节目回看功能(需播放器支持)。
-  - Global源添加了一些频道。部分频道播放缓慢的情况并不是失效，等待跳转后即可流畅观看节目。
+  - Global源去掉了失效的频道。
 
 ## ☕捐赠
 - 支持项目，赋予更多流量，共创更好体验，让服务更强大！
