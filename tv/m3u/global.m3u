@@ -157,6 +157,8 @@ https://cntv.sbs/tv?auth=2309081833&id=qjs
 https://cntv.sbs/tv?auth=2309081833&id=mlzq
 #EXTINF:-1 tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://live.fanmingming.com/tv/上海教育.png" group-title="上海",上海教育
 https://cntv.sbs/tv?auth=2309081833&id=shjy
+#EXTINF:-1 tvg-id="浦东电视台" tvg-name="浦东电视台" tvg-logo="https://live.fanmingming.com/tv/浦东电视台.png" group-title="上海",浦东电视台
+https://cntv.sbs/tv?auth=2309081833&id=pdtv
 #EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="湖南",茶频道
 https://cntv.sbs/tv?auth=2309081833&id=cpd
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="湖南",快乐垂钓
@@ -413,8 +415,6 @@ http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 #EXTINF:-1 group-title="测试频道",日本购物1
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-#EXTINF:-1 group-title="测试频道",伊拉克-SharqiyaNews
-http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 group-title="测试频道",日本Shop Channel
 https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 group-title="测试频道",长城精品
