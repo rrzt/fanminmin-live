@@ -47,8 +47,10 @@
 </table>
 
 ## 🛠️工具
-- 🆕EPG接口地址：
+- 📆EPG接口地址：
   -  [https://live.fanmingming.com/e.xml](https://live.fanmingming.com/e.xml)
+- 🆕Bing每日图片：
+  -  [https://fanmingming.com/bing](https://fanmingming.com/bing)
 - 🎞️m3u8下载工具：
   -  [https://live.fanmingming.com/m3u8](https://live.fanmingming.com/m3u8)
 - 📄M3U To TXT：
@@ -67,9 +69,9 @@
 - 您可以编辑本项目的m3u文件或上传缺失的频道Logo到`tv`或`radio`目录下并发起拉取请求，收到请求后我们会对您提交的内容进行验证，审核通过后会自动发布。
 
 ## 📔更新
-- 2023.9.13
+- 2023.9.16
   - 🔥Global源大部分频道已支持节目回看功能(需播放器支持)。
-  - 抱歉，最近在忙考试，15号以后会继续更新项目。
+  - 工具新增bing每日图片接口。
 
 ## ☕捐赠
 - 支持项目，赋予更多流量，共创更好体验，让服务更强大！
