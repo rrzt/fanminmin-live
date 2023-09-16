@@ -257,7 +257,6 @@
   // 全局挂载 streamSaver 对象
   window.streamSaver = {
     createWriteStream, // 创建写流
-    middleTransporterUrl: 'https://blog.luckly-mjw.cn/tool-show/m3u8-downloader/mitm.html',
-    // middleTransporterUrl: 'https://jimmywarting.github.io/StreamSaver.js/mitm.html?version=2.0.0'
+    middleTransporterUrl: 'https://live.fanmingming.com/m3u8/mitm.html',
   }
 })()
