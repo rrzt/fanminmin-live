@@ -28,8 +28,8 @@
       <tr>
       <td>🌏Global直播源</td>
       <td><a href="https://live.fanmingming.com/tv/m3u/global.m3u">https://live.fanmingming.com/tv/m3u/global.m3u</a></td>
-      <td>204个</td>
-      <td>2023.9.18</td>
+      <td>200个</td>
+      <td>2023.9.20</td>
     </tr>
     <tr>
       <td>📺IPTV(IPV6专用)</td>
@@ -69,10 +69,8 @@
 - 您可以编辑本项目的m3u文件或上传缺失的频道Logo到`tv`或`radio`目录下并发起拉取请求，收到请求后我们会对您提交的内容进行验证，审核通过后会自动发布。
 
 ## 📔更新
-- 2023.9.18
-  - 🔥Global源大部分频道已支持节目回看功能(需播放器支持)。
-  - 工具新增bing每日图片接口。
-  - 更新了auth参数，修复了无法播放的问题。
+- 2023.9.20
+  - Global源去掉了空白频道信息。删除了失效的频道。
 
 ## ☕捐赠
 - 支持项目，赋予更多流量，共创更好体验，让服务更强大！
