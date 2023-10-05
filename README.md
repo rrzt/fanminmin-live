@@ -28,7 +28,7 @@
       <tr>
       <td>🌏Global直播源</td>
       <td><a href="https://live.fanmingming.com/tv/m3u/global.m3u">https://live.fanmingming.com/tv/m3u/global.m3u</a></td>
-      <td>215个</td>
+      <td>200个</td>
       <td>2023.10.5</td>
     </tr>
     <tr>
@@ -70,7 +70,7 @@
 
 ## 📔更新
 - 2023.10.5
-  - 假期已接近尾声。Global源更新了auth参数以应对各种内置，增加了CHC系列频道(高峰期可能播放不流畅，体验不好的话后面会做删减)。
+  - 假期已接近尾声。Global源更新了auth参数以应对各种内置，去掉了北京的频道，增加了CHC系列频道(高峰期可能播放不流畅，体验不好的话后面会做删减)。
 
 ## ☕捐赠
 - 支持项目，赋予更多流量，共创更好体验，让服务更强大！
