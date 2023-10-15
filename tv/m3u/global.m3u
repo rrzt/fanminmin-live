@@ -287,8 +287,6 @@ http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
 http://hls.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="数字",风云音乐
 http://hls.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="数字",世界地理
-http://hls.live.cqccn.com/__cl/cg:live/__c/sjdlHD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="数字",风云足球
 http://hls.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="数字",央视台球
@@ -437,6 +435,8 @@ http://51.210.199.22/hls/stream.m3u8
 http://51.210.199.24/hls/stream.m3u8
 #EXTINF:-1 group-title="测试频道",Nostalgia
 http://51.210.199.20/hls/stream.m3u8
+#EXTINF:-1 group-title="测试频道",韩国-KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 group-title="测试频道",韩国-Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="测试频道",韩国-EBS1
@@ -447,7 +447,7 @@ http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="测试频道",韩国-KCTV
 http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
-#EXTINF:-1 group-title="测试频道",韩国-NBS Korea Agricultural Broadc
+#EXTINF:-1 group-title="测试频道",韩国-NBS
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 #EXTINF:-1 group-title="测试频道",日本购物1
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
