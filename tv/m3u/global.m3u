@@ -163,7 +163,7 @@ https://cntv.sbs/tv?auth=231013&id=jjkt
 https://cntv.sbs/tv?auth=231013&id=cftx
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="数字",中国天气
 https://cntv.sbs/tv?auth=231013&id=zgtq
-#EXTINF:-1 tvg-id="梨园" tvg-name="梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="数字",梨园频道
+#EXTINF:-1 tvg-id="梨园" tvg-name="梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="数字",梨园
 https://pi.0472.org/tv/ly.php?auth=231013
 #EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="地方",上海新闻综合
 https://cntv.sbs/tv?auth=231013&id=shxwzh
@@ -171,6 +171,8 @@ https://cntv.sbs/tv?auth=231013&id=shxwzh
 https://cntv.sbs/tv?auth=231013&id=shds
 #EXTINF:-1 tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://live.fanmingming.com/tv/上海外语.png" group-title="地方",上海ICS外语
 https://cntv.sbs/tv?auth=231013&id=shics
+#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="地方",东方影视
+https://cntv.sbs/tv?auth=231013&id=dfys
 #EXTINF:-1 tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png" group-title="地方",七彩戏剧
 https://cntv.sbs/tv?auth=231013&id=qcxj
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="地方",第一财经
@@ -421,8 +423,6 @@ http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="测试频道",韩国-KCTV
 http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
-#EXTINF:-1 group-title="测试频道",韩国-MBC综合频道
-http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1 group-title="测试频道",韩国-NBS Korea Agricultural Broadc
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 #EXTINF:-1 group-title="测试频道",日本购物1
