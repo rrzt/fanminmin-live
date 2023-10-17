@@ -397,6 +397,8 @@ http://europa-crtvg.flumotion.com/playlist.m3u8
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 #EXTINF:-1 group-title="测试频道",越·HBTV
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
+#EXTINF:-1 group-title="测试频道",越·ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 #EXTINF:-1 group-title="测试频道",番薯
 http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 #EXTINF:-1 group-title="测试频道",耀才财经
@@ -457,5 +459,3 @@ https://stream3.shopch.jp/HLS/master.m3u8
 http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
 #EXTINF:-1 group-title="测试频道",香港佛陀
 https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",香港佛陀
-https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
