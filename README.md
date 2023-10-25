@@ -28,7 +28,7 @@
       <tr>
       <td>🌏Global直播源</td>
       <td><a href="https://live.fanmingming.com/tv/m3u/global.m3u">https://live.fanmingming.com/tv/m3u/global.m3u</a></td>
-      <td>236个</td>
+      <td>238个</td>
       <td>2023.10.25</td>
     </tr>
     <tr>
