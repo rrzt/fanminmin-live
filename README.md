@@ -28,7 +28,7 @@
       <tr>
       <td>🌏Global直播源</td>
       <td><a href="https://live.fanmingming.com/tv/m3u/global.m3u">https://live.fanmingming.com/tv/m3u/global.m3u</a></td>
-      <td>248个</td>
+      <td>253个</td>
       <td>2023.10.26</td>
     </tr>
     <tr>
@@ -70,7 +70,7 @@
 
 ## 📔更新
 - 2023.10.26
-  - Global源的本地分组添加了新疆10个频道，新疆的部分频道可能不是全天有效，若不稳定后面会做删减。
+  - Global源的本地分组添加了新疆10个频道和云南4个频道，新疆的部分频道可能不是全天有效，若不稳定后面会做删减。
 
 ## ☕捐赠
 - 支持项目，赋予更多流量，共创更好体验，让服务更强大！
