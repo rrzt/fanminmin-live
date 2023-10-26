@@ -249,6 +249,14 @@ https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f
 https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
 #EXTINF:-1 tvg-id="内蒙古蒙语文化" tvg-name="内蒙古蒙语文化" tvg-logo="https://live.fanmingming.com/tv/内蒙古蒙语文化.png" group-title="地方",内蒙古蒙语文化
 https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
+#EXTINF:-1 tvg-id="云南影视" tvg-name="云南影视" tvg-logo="https://live.fanmingming.com/tv/云南影视.png" group-title="地方",云南影视
+http://mqiptv.com:8014/ch/custom20/mqlive.m3u8
+#EXTINF:-1 tvg-id="云南娱乐" tvg-name="云南娱乐" tvg-logo="https://live.fanmingming.com/tv/云南娱乐.png" group-title="地方",云南娱乐
+http://mqiptv.com:8014/ch/custom22/mqlive.m3u8
+#EXTINF:-1 tvg-id="云南都市" tvg-name="云南都市" tvg-logo="https://live.fanmingming.com/tv/云南都市.png" group-title="地方",云南都市
+http://mqiptv.com:8014/ch/custom25/mqlive.m3u8
+#EXTINF:-1 tvg-id="云南康旅" tvg-name="云南康旅" tvg-logo="https://live.fanmingming.com/tv/yunnan.png" group-title="地方",云南康旅
+http://mqiptv.com:8014/ch/custom23/mqlive.m3u8
 #EXTINF:-1 tvg-id="新疆汉语经济" tvg-name="新疆汉语经济" tvg-logo="https://live.fanmingming.com/tv/新疆汉语经济.png" group-title="地方",新疆汉语经济
 https://cntv.sbs/tv/xj.php?id=xjjj
 #EXTINF:-1 tvg-id="新疆体育健康" tvg-name="新疆体育健康" tvg-logo="https://live.fanmingming.com/tv/新疆体育健康.png" group-title="地方",新疆体育健康
@@ -369,6 +377,8 @@ https://livear.cgtn.com/1000a/prog_index.m3u8
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-id="CHANNELNEWSASIA" tvg-name="CHANNELNEWSASIA" tvg-logo="https://live.fanmingming.com/tv/亚洲新闻.png" group-title="国际",亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-id="半岛英语" tvg-name="半岛英语" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="国际",半岛新闻
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="ALJAZEERA" tvg-name="ALJAZEERA" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="国际",半岛新闻
 http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 #EXTINF:-1 tvg-id="ThaiPBS3" tvg-name="ThaiPBS3" tvg-logo="https://live.fanmingming.com/tv/ThaiPBS.png" group-title="国际",Thai PBS 3
