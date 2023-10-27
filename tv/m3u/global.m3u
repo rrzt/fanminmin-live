@@ -257,26 +257,6 @@ http://mqiptv.com:8014/ch/custom22/mqlive.m3u8
 http://mqiptv.com:8014/ch/custom25/mqlive.m3u8
 #EXTINF:-1 tvg-id="云南康旅" tvg-name="云南康旅" tvg-logo="https://live.fanmingming.com/tv/yunnan.png" group-title="地方",云南康旅
 http://mqiptv.com:8014/ch/custom23/mqlive.m3u8
-#EXTINF:-1 tvg-id="新疆汉语经济" tvg-name="新疆汉语经济" tvg-logo="https://live.fanmingming.com/tv/新疆汉语经济.png" group-title="地方",新疆汉语经济
-https://cntv.sbs/tv/xj.php?id=xjjj
-#EXTINF:-1 tvg-id="新疆体育健康" tvg-name="新疆体育健康" tvg-logo="https://live.fanmingming.com/tv/新疆体育健康.png" group-title="地方",新疆体育健康
-https://cntv.sbs/tv/xj.php?id=xjty
-#EXTINF:-1 tvg-id="新疆汉语信息" tvg-name="新疆汉语信息" tvg-logo="https://live.fanmingming.com/tv/xinjiang.png" group-title="地方",新疆汉语信息
-https://cntv.sbs/tv/xj.php?id=xjxx
-#EXTINF:-1 tvg-id="新疆少儿" tvg-name="新疆少儿" tvg-logo="https://live.fanmingming.com/tv/新疆少儿.png" group-title="地方",新疆少儿
-https://cntv.sbs/tv/xj.php?id=xjse
-#EXTINF:-1 tvg-id="新疆汉语综艺" tvg-name="新疆汉语综艺" tvg-logo="https://live.fanmingming.com/tv/新疆汉语综艺.png" group-title="地方",新疆汉语综艺
-https://cntv.sbs/tv/xj.php?id=xjzy
-#EXTINF:-1 tvg-id="新疆维语新闻" tvg-name="新疆维语新闻" tvg-logo="https://live.fanmingming.com/tv/xinjiang.png" group-title="地方",新疆维语新闻
-https://cntv.sbs/tv/xj.php?id=wyxw
-#EXTINF:-1 tvg-id="新疆哈语新闻" tvg-name="新疆哈语新闻" tvg-logo="https://live.fanmingming.com/tv/xinjiang.png" group-title="地方",新疆哈语新闻
-https://cntv.sbs/tv/xj.php?id=hyxw
-#EXTINF:-1 tvg-id="新疆维语影视" tvg-name="新疆维语影视" tvg-logo="https://live.fanmingming.com/tv/xinjiang.png" group-title="地方",新疆维语影视
-https://cntv.sbs/tv/xj.php?id=wyys
-#EXTINF:-1 tvg-id="新疆哈语综艺" tvg-name="新疆哈语综艺" tvg-logo="https://live.fanmingming.com/tv/xinjiang.png" group-title="地方",新疆哈语综艺
-https://cntv.sbs/tv/xj.php?id=hyzy
-#EXTINF:-1 tvg-id="新疆维语经济" tvg-name="新疆维语经济" tvg-logo="https://live.fanmingming.com/tv/xinjiang.png" group-title="地方",新疆维语经济
-https://cntv.sbs/tv/xj.php?id=wyjj
 #EXTINF:-1 tvg-id="看天下精选" tvg-name="看天下精选" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",看天下精选
 https://cntv.sbs/tv?auth=2310201855&id=ktxjx
 #EXTINF:-1 tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视",华语影院
@@ -377,9 +357,9 @@ https://livear.cgtn.com/1000a/prog_index.m3u8
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-id="CHANNELNEWSASIA" tvg-name="CHANNELNEWSASIA" tvg-logo="https://live.fanmingming.com/tv/亚洲新闻.png" group-title="国际",亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-id="半岛英语" tvg-name="半岛英语" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="国际",半岛新闻
+#EXTINF:-1 tvg-id="半岛英语" tvg-name="半岛英语" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="国际",半岛英语
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="ALJAZEERA" tvg-name="ALJAZEERA" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="国际",半岛新闻
+#EXTINF:-1 tvg-id="ALJAZEERA" tvg-name="ALJAZEERA" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="国际",半岛阿语
 http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 #EXTINF:-1 tvg-id="ThaiPBS3" tvg-name="ThaiPBS3" tvg-logo="https://live.fanmingming.com/tv/ThaiPBS.png" group-title="国际",Thai PBS 3
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
