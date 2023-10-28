@@ -49,7 +49,7 @@
 ## 🛠️工具
 - 📆EPG接口地址：
   -  [https://live.fanmingming.com/e.xml](https://live.fanmingming.com/e.xml)
-- 🆕Bing每日图片：
+- 🏞️Bing每日图片：
   -  [https://fanmingming.com/bing](https://fanmingming.com/bing)
 - 🎞️m3u8下载工具：
   -  [https://live.fanmingming.com/m3u8](https://live.fanmingming.com/m3u8)
