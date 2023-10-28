@@ -28,8 +28,8 @@
       <tr>
       <td>🌏Global直播源</td>
       <td><a href="https://live.fanmingming.com/tv/m3u/global.m3u">https://live.fanmingming.com/tv/m3u/global.m3u</a></td>
-      <td>242个</td>
-      <td>2023.10.27</td>
+      <td>228个</td>
+      <td>2023.10.28</td>
     </tr>
     <tr>
       <td>📺IPTV(IPV6专用)</td>
@@ -70,7 +70,8 @@
 
 ## 📔更新
 - 2023.10.27
-  - Global源去掉了不稳定的频道。
+  - Global源剔除了部分重复的频道，删除了尚未在首页公开的ipv6plus.m3u。
+    - 已注意到部分地区的移动和电信用户无法使用Global源的大部分频道，正在评估可能存在的域名DNS污染问题。
 
 ## ☕捐赠
 - 支持项目，赋予更多流量，共创更好体验，让服务更强大！
