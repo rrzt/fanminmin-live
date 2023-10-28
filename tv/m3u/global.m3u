@@ -165,8 +165,6 @@ https://cntv.sbs/tv?auth=2310201855&id=jjkt
 https://cntv.sbs/tv?auth=2310201855&id=cftx
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="数字",中国天气
 https://cntv.sbs/tv?auth=2310201855&id=zgtq
-#EXTINF:-1 tvg-id="梨园" tvg-name="梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="数字",梨园
-https://pi.0472.org/tv/ly.php?auth=2310201855
 #EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="地方",上海新闻综合
 https://cntv.sbs/tv?auth=2310201855&id=shxwzh
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="地方",上海都市
@@ -373,8 +371,6 @@ http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-id="CHANNELNEWSASIA" tvg-name="CHANNELNEWSASIA" tvg-logo="https://live.fanmingming.com/tv/亚洲新闻.png" group-title="国际",亚洲新闻1080P
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="测试频道",日·QVC
-http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1 group-title="测试频道",韩·BBS佛教
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
 #EXTINF:-1 group-title="测试频道",韩·SBS
@@ -403,7 +399,7 @@ http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 #EXTINF:-1 group-title="测试频道",俄·IGITV
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",俄·RBC(Opt-1)
+#EXTINF:-1 group-title="测试频道",俄·RBC
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 group-title="测试频道",美·NASA 1
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
@@ -429,7 +425,7 @@ http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 #EXTINF:-1 group-title="测试频道",NewsmaxTV
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 group-title="测试频道",PBSAmerica
+#EXTINF:-1 group-title="测试频道",PBS America
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="测试频道",moviesphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
@@ -445,13 +441,13 @@ https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 http://streaming.astrakhan.ru/astrakhan24/index.m3u8
 #EXTINF:-1 group-title="测试频道",Самара
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="测试频道",日本QVC
+http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1 group-title="测试频道",日本Shop Channel
 https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 group-title="测试频道",长城精品
 http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
 #EXTINF:-1 group-title="测试频道",香港佛陀
 https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
-#EXTINF:-1 group-title="测试频道",NewsMax
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 group-title="测试频道",VB
 http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
