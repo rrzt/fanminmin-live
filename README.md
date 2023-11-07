@@ -71,7 +71,7 @@
 ## 📔更新
 - 2023.11.07
   - 更换了项目域名的NSServer，部分地区无法访问订阅地址的问题会随着各地DNS生效陆续恢复。
-  - 增加了备用域名【live.fanmingming.cn】，cn域名下所有静态内容与仓库自动同步且由Cloudflare Pages服务驱动。
+  - 备用域名【live.fanmingming.cn】，cn域名下所有内容与仓库自动同步且由Cloudflare Pages驱动。
     - com域名的内容继续由Github Pages构建，使用了Cloudflare CDN以解决部分地区无法访问的问题。
 
 ## ☕捐赠
