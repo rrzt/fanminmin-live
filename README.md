@@ -34,8 +34,8 @@
     <tr>
       <td>📺IPTV(IPV6专用)</td>
       <td><a href="https://live.fanmingming.com/tv/m3u/ipv6.m3u">https://live.fanmingming.com/tv/m3u/ipv6.m3u</a></td>
-      <td>138个</td>
-      <td>2023.10.28</td>
+      <td>142个</td>
+      <td>2023.11.7</td>
     </tr>
     <tr>
       <td>📻Radio直播源</td>
@@ -73,6 +73,7 @@
   - 更换了项目域名的NSServer，部分地区无法访问订阅地址的问题会随着各地DNS生效陆续恢复。
   - 备用域名【live.fanmingming.cn】，cn域名下所有内容与仓库自动同步且由Cloudflare Pages驱动。
     - com域名的内容继续由Github Pages构建，使用了Cloudflare CDN以解决部分地区无法访问的问题。
+  - IPV6源增加求索系列4个频道。
 
 ## ☕捐赠
 - 支持项目，赋予更多流量，共创更好体验，让服务更强大！
