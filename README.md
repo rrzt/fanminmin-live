@@ -69,14 +69,10 @@
 - 您可以编辑本项目的m3u文件或上传缺失的频道Logo到`tv`或`radio`目录下并发起拉取请求，收到请求后我们会对您提交的内容进行验证，审核通过后会自动发布。
 
 ## 📔更新
-- 2023.11.07
-  - 更换了项目域名的NSServer，部分地区无法访问订阅地址的问题会随着各地DNS生效陆续恢复。
-  - 备用域名【live.fanmingming.cn】，cn域名下所有内容与仓库自动同步且由Cloudflare Pages驱动。
-    - com域名的内容继续由Github Pages构建，使用了Cloudflare CDN以解决部分地区无法访问的问题。
-  - IPV6源增加求索系列4个频道。
+- 2023.11.08
+  - 解决了CF防火墙阻断UA包含kodi请求的问题。
 
 ## ☕捐赠
 - 支持项目，赋予更多流量，共创更好体验，让服务更强大！
-  - 自2022年10月创立以来，得益于大家的支持，项目已获得超过6K颗星星，在中文GitHub项目中名声鹊起。感激一路相伴，项目将持续免费。所有款项将透明公示于项目的[Sponsor.MD](https://github.com/fanmingming/live/blob/main/Sponsor.MD)。
 
 <img alt="Sponsor" src="https://live.fanmingming.com/sponsor.png">
