@@ -28,7 +28,7 @@
       <tr>
       <td>🌏Global直播源</td>
       <td><a href="https://live.fanmingming.com/tv/m3u/global.m3u">https://live.fanmingming.com/tv/m3u/global.m3u</a></td>
-      <td>216个</td>
+      <td>202个</td>
       <td>2023.11.10</td>
     </tr>
     <tr>
@@ -70,7 +70,7 @@
 
 ## 📔更新
 - 2023.11.10
-  - Global源删除了一些缓慢的频道。
+  - Global源更新了播放源。
 
 ## ☕捐赠
 - 支持项目，赋予更多流量，共创更好体验，让服务更强大！
