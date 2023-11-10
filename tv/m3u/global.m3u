@@ -45,8 +45,6 @@ http://cntv.lat/tv/live.php?auth=231110&id=chcdzdyHD
 http://cntv.lat/tv/live.php?auth=231110&id=chcjtyyHD
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="央视",CHC高清电影
 http://cntv.lat/tv/live.php?auth=231110&id=chcgqdyHD
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视
-http://cntv.lat/tv/live.php?auth=231110&id=jiangsuHD
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
 http://cntv.lat/tv/live.php?auth=231110&id=beijingHD
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视",浙江卫视
@@ -65,6 +63,8 @@ http://cntv.lat/tv/live.php?auth=231110&id=guizhouHD
 http://cntv.lat/tv/live.php?auth=231110&id=sichuanHD
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视",重庆卫视
 http://cntv.lat/tv/live.php?auth=231110&id=chongqingHD
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视
+http://cntv.lat/tv/live.php?auth=231110&id=jiangsuHD
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视",云南卫视
 http://cntv.lat/tv/live.php?auth=231110&id=yunnanSD
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视",东南卫视
@@ -121,6 +121,8 @@ http://cntv.lat/tv/live.php?auth=231110&id=sdjiaoyuSD
 http://cntv.lat/tv/live.php?auth=231110&id=cetv-1SD
 #EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="卫视",CETV-4
 http://cntv.lat/tv/live.php?auth=231110&id=cetv-4SD
+#EXTINF:-1 tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="其他",早期教育
+http://cntv.lat/tv/live.php?auth=231110&id=zaojiaoHD
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="其他",欢笑剧场 4K
 http://cntv.lat/tv/live.php?auth=231110&id=hxjc_4K
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="其他",生活时尚
@@ -129,36 +131,16 @@ http://cntv.lat/tv/live.php?auth=231110&id=shenghuo
 http://cntv.lat/tv/live.php?auth=231110&id=jiankangSD
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="其他",快乐垂钓
 http://cntv.lat/tv/live.php?auth=231110&id=klcdHD
-#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="其他",第一剧场
-http://cntv.lat/tv/live.php?auth=231110&id=diyijuchangHD
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/SITV都市剧场.png" group-title="其他",都市剧场
 http://cntv.lat/tv/live.php?auth=231110&id=dsjcHD
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="其他",动漫秀场
 http://cntv.lat/tv/live.php?auth=231110&id=dmxcHD
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="其他",魅力足球
 http://cntv.lat/tv/live.php?auth=231110&id=mlzqHD
-#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="其他",风云剧场
-http://cntv.lat/tv/live.php?auth=231110&id=fyjcHD
 #EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="其他",求索纪录
 http://cntv.lat/tv/live.php?auth=231110&id=qsjlHD
-#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="其他",兵器科技
-http://cntv.lat/tv/live.php?auth=231110&id=bqkjHD
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="其他",游戏风云
 http://cntv.lat/tv/live.php?auth=231110&id=yxfyHD
-#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="其他",怀旧剧场
-http://cntv.lat/tv/live.php?auth=231110&id=hjjcHD
-#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="其他",风云音乐
-http://cntv.lat/tv/live.php?auth=231110&id=fyyyHD
-#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="其他",央视台球
-http://cntv.lat/tv/live.php?auth=231110&id=ystqHD
-#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="其他",风云足球
-http://cntv.lat/tv/live.php?auth=231110&id=fyzqHD
-#EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="其他",央视文化精品
-http://cntv.lat/tv/live.php?auth=231110&id=yswhHD
-#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="其他",高尔夫网球
-http://cntv.lat/tv/live.php?auth=231110&id=golfHD
-#EXTINF:-1 tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="其他",早期教育
-http://cntv.lat/tv/live.php?auth=231110&id=zaojiaoHD
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="其他",东方财经
 http://cntv.lat/tv/live.php?auth=231110&id=dfcj
 #EXTINF:-1 tvg-id="证券资讯" tvg-name="证券资讯" tvg-logo="https://live.fanmingming.com/tv/证券服务.png" group-title="其他",证券服务
@@ -189,8 +171,6 @@ http://cntv.lat/tv/live.php?auth=231110&id=jinse
 http://cntv.lat/tv/live.php?auth=231110&id=soucang
 #EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="其他",财富天下
 http://cntv.lat/tv/live.php?auth=231110&id=caifu
-#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="央视",女性时尚
-http://cntv.lat/tv/live.php?auth=231110&id=nvxing
 #EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://live.fanmingming.com/tv/天元围棋.png" group-title="其他",天元围棋
 http://cntv.lat/tv/live.php?auth=231110&id=weiqi
 #EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.com/tv/先锋乒羽.png" group-title="其他",先锋乒羽
@@ -199,6 +179,26 @@ http://cntv.lat/tv/live.php?auth=231110&id=xianfeng
 http://cntv.lat/tv/live.php?auth=231110&id=huanqiulvyou
 #EXTINF:-1 tvg-id="摄影" tvg-name="摄影" tvg-logo="https://live.fanmingming.com/tv/摄影.png" group-title="其他",摄影频道
 http://cntv.lat/tv/live.php?auth=231110&id=sheying
+#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视",风云剧场
+http://cntv.lat/tv/live.php?auth=231110&id=fyjcHD
+#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="央视",第一剧场
+http://cntv.lat/tv/live.php?auth=231110&id=diyijuchangHD
+#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="央视",女性时尚
+http://cntv.lat/tv/live.php?auth=231110&id=nvxing
+#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视",怀旧剧场
+http://cntv.lat/tv/live.php?auth=231110&id=hjjcHD
+#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="央视",风云音乐
+http://cntv.lat/tv/live.php?auth=231110&id=fyyyHD
+#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视",央视台球
+http://cntv.lat/tv/live.php?auth=231110&id=ystqHD
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视",风云足球
+http://cntv.lat/tv/live.php?auth=231110&id=fyzqHD
+#EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="央视",央视文化精品
+http://cntv.lat/tv/live.php?auth=231110&id=yswhHD
+#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="央视",高尔夫网球
+http://cntv.lat/tv/live.php?auth=231110&id=golfHD
+#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视",兵器科技
+http://cntv.lat/tv/live.php?auth=231110&id=bqkjHD
 #EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://live.fanmingming.com/tv/发现之旅.png" group-title="其他",发现之旅
 http://cntv.lat/tv/live.php?auth=231110&id=faxian
 #EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="https://live.fanmingming.com/tv/中学生.png" group-title="其他",中学生
