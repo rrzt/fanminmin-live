@@ -34,8 +34,8 @@
     <tr>
       <td>📺IPTV(IPV6专用)</td>
       <td><a href="https://live.fanmingming.com/tv/m3u/ipv6.m3u">https://live.fanmingming.com/tv/m3u/ipv6.m3u</a></td>
-      <td>142个</td>
-      <td>2023.11.7</td>
+      <td>144个</td>
+      <td>2023.11.10</td>
     </tr>
     <tr>
       <td>📻Radio直播源</td>
@@ -71,6 +71,7 @@
 ## 📔更新
 - 2023.11.10
   - Global源更新了播放源。
+  - IPv6源添加了CCTV4K和CCTV8K两个超高清频道。
 
 ## ☕捐赠
 - 支持项目，赋予更多流量，共创更好体验，让服务更强大！
