@@ -271,8 +271,10 @@ http://cntv.lat/tv/live.php?auth=231110&id=cqcarSD
 http://cntv.lat/tv/live.php?auth=231110&id=mryyHD
 #EXTINF:-1 tvg-id="重广融媒" tvg-name="重广融媒" tvg-logo="https://live.fanmingming.com/tv/重广融媒.png" group-title="地方",重广融媒
 http://cntv.lat/tv/live.php?auth=231110&id=cqrongmei
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳",凤凰中文
-http://111.221.137.154:9901/tsfile/live/1013_1.m3u8
+#EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="地方",上海新闻综合
+https://pi.0472.org/tv/sh.ph?id=xw
+#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="地方",上海都市
+https://pi.0472.org/tv/sh.php?id=ds
 #EXTINF:-1 tvg-id="耀才财经" tvg-name="耀才财经" tvg-logo="https://live.fanmingming.com/tv/耀才财经.png" group-title="港澳",耀才财经
 https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳",翡翠台
@@ -371,8 +373,6 @@ http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 #EXTINF:-1 group-title="测试",番薯
 http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-#EXTINF:-1 group-title="测试",耀才财经
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 group-title="测试",ABC新闻
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 #EXTINF:-1 group-title="测试",NewsmaxTV
