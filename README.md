@@ -1,4 +1,4 @@
-<p align="center"><img alt="live.fanmingming.com" src="https://live.fanmingming.com/logo.png"></p>
+<p align="center"><img alt="live.fanmingming.com" src="https://live.fanmingming.cn/logo.png"></p>
 <h1 align="center"> ✯ 一个国内可直连的直播源分享项目 ✯ </h1>
 <h3 align="center">🔕 永久免费 直连访问 完整开源 不含广告 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕</h3>
 
@@ -69,8 +69,8 @@
 - 您可以编辑本项目的m3u文件或上传缺失的频道Logo到`tv`或`radio`目录下并发起拉取请求，收到请求后我们会对您提交的内容进行验证，审核通过后会自动发布。
 
 ## 📔更新
-- 2023.11.15
-  - Global源去掉了失效的频道，添加了上海两个频道。
+- 2023.11.19
+  - 更新了M3U8 Web Player。
 
 ## ☕捐赠
 - 支持项目，赋予更多流量，共创更好体验，让服务更强大！
