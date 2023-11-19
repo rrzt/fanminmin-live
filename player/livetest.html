@@ -175,7 +175,7 @@ $.ajax({
   success:function(res){
        m3u8 = res.data.result.protocol[0].transcode[0].url;
 if(vid == 'cctv4k'||vid == 'cctv16_4k'||vid == 'hxjc4k'){
-   location.href = 'player/?vurl=' +m3u8;
+   location.href = 'index.html?vid=' +m3u8;
    } else {
       location.href = 'play.html?id=' +m3u8;
    }
