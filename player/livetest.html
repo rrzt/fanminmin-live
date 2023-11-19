@@ -1,4 +1,3 @@
-<html>
 <script src="jquery-1.8.3.min.js"></script>
 <script src="md5.min.js"></script>
 <script language="javascript">
@@ -175,11 +174,10 @@ $.ajax({
   success:function(res){
        m3u8 = res.data.result.protocol[0].transcode[0].url;
 if(vid == 'cctv4k'||vid == 'cctv16_4k'||vid == 'hxjc4k'){
-   location.href = 'index.html?vid=' +m3u8;
+   location.href = 'index.html?vurl=' +m3u8;
    } else {
-      location.href = 'play.html?id=' +m3u8;
+      location.href = 'play.html?vurl=' +m3u8;
    }
   }
 })
 </script>
-</html>
