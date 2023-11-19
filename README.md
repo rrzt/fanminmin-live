@@ -28,8 +28,8 @@
       <tr>
       <td>🌏Global直播源</td>
       <td><a href="https://live.fanmingming.com/tv/m3u/global.m3u">https://live.fanmingming.com/tv/m3u/global.m3u</a></td>
-      <td>202个</td>
-      <td>2023.11.15</td>
+      <td>204个</td>
+      <td>2023.11.19</td>
     </tr>
     <tr>
       <td>📺IPTV(IPV6专用)</td>
