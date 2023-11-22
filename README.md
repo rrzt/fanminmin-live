@@ -71,8 +71,3 @@
 ## 📔更新
 - 2023.11.22
   - 更新了源。
-
-## ☕捐赠
-- 支持项目，赋予更多流量，共创更好体验，让服务更强大！
-
-<img alt="Sponsor" src="https://live.fanmingming.com/sponsor.png">
