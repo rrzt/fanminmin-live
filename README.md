@@ -46,14 +46,15 @@
 </table>
 
 ### 创建您的m3u订阅链接：
- - 下载 `demo.m3u` 空白示例文件
-https://live.fanmingming.com/tv/m3u/demo.m3u
+ - 下载 `demo.m3u` 空白示例文件并使用文本编辑软件打开。
+   - https://live.fanmingming.com/tv/m3u/demo.m3u
 
- - 参考下方将`可用的CCTV1节目源`替换为您当地可用的直播链接，依此类推逐个替换。
+ - 参考下方示例代码将`可用的CCTV1节目源`替换为您当地可用的直播源链接，依此类推逐个替换。
 ```
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
 可用的CCTV1节目源
+此处省略...
 ```
  - 将编辑完成的m3u文件上传到您的Github仓库。
  - 为您的Github仓库开启Pages。
