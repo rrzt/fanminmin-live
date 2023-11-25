@@ -37,7 +37,7 @@
       <td>2023.11.25</td>
     </tr>
     <tr>
-      <td>📻广播图标库</td>
+      <td>📻广播电台图标库</td>
       <td><a href="https://github.com/fanmingming/live/tree/main/radio">https://live.fanmingming.com/radio/{频道名称}.png</a></td>
       <td>465个</td>
       <td>2023.8.27</td>
