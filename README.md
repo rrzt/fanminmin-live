@@ -33,8 +33,8 @@
     <tr>
       <td>📺电视台图标库</td>
       <td><a href="https://github.com/fanmingming/live/tree/main/tv">https://live.fanmingming.com/tv/{频道名称}.png</a></td>
-      <td>958个</td>
-      <td>2023.11.25</td>
+      <td>959个</td>
+      <td>2023.11.29</td>
     </tr>
     <tr>
       <td>📻广播电台图标库</td>
@@ -56,7 +56,7 @@
 可用的CCTV1节目源
 此处省略...
 ```
-若您的直播源支持回看，请将第一行代码更改为：
+若您的直播源支持回看，请将第一行代码替换为：
 ```
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 ```
@@ -89,5 +89,5 @@
 - 您可以编辑本项目缺失的频道Logo到`tv`或`radio`目录下并发起拉取请求，收到请求后我们会对您提交的内容进行验证，审核通过后会自动发布。
 
 ## 📔更新
-- 2023.11.25
+- 2023.11.29
   - Update
