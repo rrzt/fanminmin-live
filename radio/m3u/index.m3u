@@ -31,12 +31,6 @@ http://kpop.bigbradio.net/s
 http://jpop.bigbradio.net/s
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s54185/images/logog.png?t=158645" group-title="网络广播" radio="true",Big B Radio - 亚洲流行
 http://apop.bigbradio.net/s
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络广播" radio="true",Modern Radio
-http://play.redefine.ltd/Stream1/FM1058-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络广播" radio="true",电音电台
-http://play.redefine.ltd/Stream3/FM1058-3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络广播" radio="true",古典音乐台
-http://play.redefine.ltd/Stream2/FM1058-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河南新闻广播.png" group-title="综合广播" radio="true",河南新闻广播
 https://stream.hndt.com/live/xinwen/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/河南经济广播.png" group-title="综合广播" radio="true",河南经济广播
@@ -610,7 +604,7 @@ http://icecast-ruvr.cdnvideo.ru/rian.voicechi
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/美国之音.png" group-title="境外广播" radio="true",美国之音
 https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/自由亚洲电台.png" group-title="境外广播" radio="true",自由亚洲电台
-http://rfimonde-lh.akamaihd.net/i/rfimonde_1@412456/index_128_a-p.m3u8
+https://rfa-ingest.akamaized.net/hls/live/2040699/RFA_AUDIO_LIVE1/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.melisten.sg/api/blob/10711300/3600973250882fa11b0b01b71a9d6e5d/cna938-logoImage.png" group-title="境外广播" radio="true",CNA 938
 https://14033.live.streamtheworld.com/938NOW_PREM.aac
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.kcrw.com/music/shows/eclectic24/@@images/square_image/giant-square" group-title="境外广播" radio="true",Eclectic24
