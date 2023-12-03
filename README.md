@@ -33,8 +33,8 @@
     <tr>
       <td>📺电视台图标库</td>
       <td><a href="https://github.com/fanmingming/live/tree/main/tv">https://live.fanmingming.com/tv/{频道名称}.png</a></td>
-      <td>959个</td>
-      <td>2023.11.29</td>
+      <td>989个</td>
+      <td>2023.12.3</td>
     </tr>
     <tr>
       <td>📻广播电台图标库</td>
@@ -89,5 +89,5 @@
 - 您可以编辑本项目缺失的频道Logo到`tv`或`radio`目录下并发起拉取请求，收到请求后我们会对您提交的内容进行验证，审核通过后会自动发布。
 
 ## 📔更新
-- 2023.11.29
-  - Update
+- 2023.12.03
+  - 添加了iHot系列30个台标。
