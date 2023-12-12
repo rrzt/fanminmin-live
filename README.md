@@ -15,7 +15,7 @@
 
 ## 🤹‍♂️使用方法:
 
-### 电视/广播图标库：
+### 🌇电视/广播图标库：
 <table>
   <thead>
     <tr>
@@ -41,7 +41,7 @@
   </tbody>
 </table>
 
-### 创建您的m3u订阅链接：
+### ⛓️创建您的m3u订阅链接：
  - 下载 `demo.m3u` 空白示例文件并使用文本编辑软件打开。
    - https://live.fanmingming.com/tv/m3u/demo.m3u
 
@@ -84,7 +84,11 @@
 - 所有文件均托管在[GitHub](https://github.com/fanmingming/live)且自动构建，由项目发起人公益维护，欢迎Star本项目或点击[Issues](https://github.com/fanmingming/live/issues/new/choose)反馈您的问题。
 - 您可以编辑本项目缺失的频道Logo到`tv`或`radio`目录下并发起拉取请求，收到请求后我们会对您提交的内容进行验证，审核通过后会自动发布。
 
+## 📱联系
+- Telegram: [@AirfoneBot](https://t.me/AirfoneBot)
+  - 如遇资源访问问题请通过Telegram反馈。
+
 ## 📔更新
 - 2023.12.12
-  - 非常抱歉，因为Cloudflare套壳GitHub Pages导致了SSL证书逾期，请大家耐心等待各地DNS生效后会自动恢复。
-  - 镜像域名【live.fanmingming.cn】，所有文件均完整构建在CloudFlare Pages。
+  - SSL证书问题已修复，DNS生效后会自动恢复。
+  - 镜像域名【`live.fanmingming.cn`】，文件完整构建在CloudFlare Pages。
