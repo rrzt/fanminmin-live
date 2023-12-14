@@ -29,7 +29,7 @@
     <tr>
       <td>📺电视台图标库</td>
       <td><a href="https://github.com/fanmingming/live/tree/main/tv">https://live.fanmingming.com/tv/{频道名称}.png</a></td>
-      <td>998个</td>
+      <td>996个</td>
       <td>2023.12.14</td>
     </tr>
     <tr>
