@@ -29,8 +29,8 @@
     <tr>
       <td>📺电视台图标库</td>
       <td><a href="https://github.com/fanmingming/live/tree/main/tv">https://live.fanmingming.com/tv/{频道名称}.png</a></td>
-      <td>993个</td>
-      <td>2023.12.5</td>
+      <td>998个</td>
+      <td>2023.12.14</td>
     </tr>
     <tr>
       <td>📻广播电台图标库</td>
@@ -77,7 +77,7 @@
 ## 📖说明
 - 项目EPG接口为112114.xyz站点分发，本项目无法确保其准确性。
 - 通过M3U8 Web Player测试直播源需使用https协议的直播源链接。
-- M3U转TXT格式工具构建在Vercel，不会记录您的访问日志请放心使用。
+- 在线M3U转TXT工具构建在Vercel，不会记录您的访问日志请放心使用。
 - 本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担。
 - 您可以Fork本项目，但引用本项目内容到其他仓库的情况，务必要遵守开源协议。
 - 项目m3u目录下的内容均收集于互联网，仅供测试研究使用，本项目不保证其有效性，也不再对相关issue做回复。
@@ -86,9 +86,9 @@
 
 ## 📱联系
 - Telegram: [@AirfoneBot](https://t.me/AirfoneBot)
-  - 如遇资源访问问题请通过Telegram反馈。
+  - 如遇资源访问问题请通过Telegram反馈，关于IPv4源的问题不予回复。
 
 ## 📔更新
-- 2023.12.12
-  - SSL证书问题已修复，DNS生效后会自动恢复。
+- 2023.12.14
+  - 添加了一些电视台台标。
   - 镜像域名【`live.fanmingming.cn`】，文件完整构建在CloudFlare Pages。
