@@ -80,7 +80,9 @@
 - 在线M3U转TXT工具构建在Vercel，不会记录您的访问日志请放心使用。
 - 本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担。
 - 您可以Fork本项目，但引用本项目内容到其他仓库的情况，务必要遵守开源协议。
-- 项目m3u目录下的内容均收集于互联网，仅供测试研究使用，本项目不保证其有效性，也不再对相关issue做回复。
+- 项目`/tv/m3u/`和`/radio/m3u/`目录下的内容收集于互联网，仅供测试研究使用，本项目无法保证其有效性。
+- 主域名【`live.fanmingming.com`】的WEB访问服务通过Github Pages自动构建，由CloudFlare提供CDN和安全防护。
+- 镜像域名【`live.fanmingming.cn`】提供完整的镜像资源WEB访问，通过Github Actions自动构建在CloudFlare Pages。
 - 所有文件均托管在[GitHub](https://github.com/fanmingming/live)且自动构建，由项目发起人公益维护，欢迎Star本项目或点击[Issues](https://github.com/fanmingming/live/issues/new/choose)反馈您的问题。
 - 您可以编辑本项目缺失的频道Logo到`tv`或`radio`目录下并发起拉取请求，收到请求后我们会对您提交的内容进行验证，审核通过后会自动发布。
 
@@ -89,6 +91,5 @@
   - 如遇资源访问问题请通过Telegram反馈，关于IPv4源的问题不予回复。
 
 ## 📔更新
-- 2023.12.14
-  - 添加了一些电视台台标。
-  - 镜像域名【`live.fanmingming.cn`】，文件完整构建在CloudFlare Pages。
+- 2023.12.16
+  - 为防止恶意调用，在线M3U转TXT工具增加了对m3u链接的验证，不支持1M以上的m3u链接转换，不支持302跳转的短域名。
