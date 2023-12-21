@@ -29,8 +29,8 @@
     <tr>
       <td>📺电视台图标库</td>
       <td><a href="https://github.com/fanmingming/live/tree/main/tv">https://live.fanmingming.com/tv/{频道名称}.png</a></td>
-      <td>996个</td>
-      <td>2023.12.14</td>
+      <td>956个</td>
+      <td>2023.12.21</td>
     </tr>
     <tr>
       <td>📻广播电台图标库</td>
@@ -94,6 +94,7 @@
   - 如遇资源访问问题请通过Telegram反馈。
 
 ## 📔更新
-- 2023.12.18
+- 2023.12.21
+  - 剔除了tv目录下的一些jpg格式台标，规范了格式。
   - 增加了TXT转M3U格式工具，纯前端本地处理，一键生成M3U，无需上传txt文件粘贴即转换，安全不偷源。
   - 为防止恶意调用，在线M3U转TXT工具增加了对m3u链接的验证。不支持1M以上的m3u链接转换，不支持301/302跳转的链接，不支持无group-title的m3u链接。
