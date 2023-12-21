@@ -9,27 +9,50 @@
   <style>
     body {
       text-align: center;
+      font-family: Arial, sans-serif;
+      background-color: #f5f5f5;
+      margin: 0;
+      padding: 0;
     }
-
+    h2 {
+      color: #333;
+    }
     #inputContainer {
-      margin-top: 20px;
+      margin-top: 10px;
     }
-
     label {
       display: block;
       margin-bottom: 5px;
+      color: #666;
     }
-
-    textarea {
+    textarea, #m3uOutput {
       width: 800px;
-      height: 380px;
+      height: 368px;
       box-sizing: border-box;
+      padding: 10px;
+      margin-top: 5px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      font-size: 12px;
     }
-
     button {
       margin-top: 10px;
+      padding: 10px 10px;
+      font-size: 14px;
+      cursor: pointer;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      border-radius: 5px;
     }
-
+    button:hover {
+      background-color: #45a049;
+    }
+    #m3uOutput {
+      margin-top: 5px;
+      background-color: #fff;
+      color: #333;
+    }
     #copyright {
       margin-top: 20px;
       color: #666;
@@ -39,78 +62,57 @@
 </head>
 <body>
   <h2>在线TXT转M3U格式</h2>
-
+     <h3>TXT格式源:</h3>
   <div id="inputContainer">
-    <h3>TXT格式源:</h3>
     <textarea id="txtInput" rows="10" cols="80"></textarea>
   </div>
-
   <button onclick="convertToM3U()">转换格式</button>
   <button onclick="clearScreen()">清除屏幕</button>
   <button onclick="copyContent()">拷贝结果</button>
   <button onclick="saveAsM3U()">保存m3u</button>
-
   <h3>M3U格式转换结果:</h3>
   <textarea id="m3uOutput" rows="10" cols="80" readonly></textarea>
-
   <div id="copyright">
     <p>© 2023 live.fanmingming.com All Rights Reserved.</p>
   </div>
-
   <script>
     function convertToM3U() {
-      var txtInput = document.getElementById('txtInput').value;
-      var lines = txtInput.split('\n');
-      var m3uOutput = '#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"\n';
-
-      var currentGroup = null; // 用于记录当前的组名称
-
-      for (var i = 0; i < lines.length; i++) {
-        var line = lines[i].trim();
-        if (line !== '') {
-          // 如果是组名称行，则更新当前组名称
-          if (line.includes('#genre#')) {
-            currentGroup = line.replace(/#genre#/, '').trim();
+      const txtInput = document.getElementById('txtInput').value;
+      const lines = txtInput.split('\n');
+      let m3uOutput = '#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"\n';
+      let currentGroup = null;
+      for (const line of lines) {
+        const trimmedLine = line.trim();
+        if (trimmedLine !== '') {
+          if (trimmedLine.includes('#genre#')) {
+            currentGroup = trimmedLine.replace(/,#genre#/, '').trim();
           } else {
-            var channelInfo = line.split(',');
-            var originalChannelName = channelInfo[0].trim();
-            var channelLink = channelInfo[1].trim();
-
-            // 使用正则表达式去掉“-”及其后面的文字，保留“-”后面的数字
-            var processedChannelName = originalChannelName.replace(/(CCTV|CETV)-(\d+).*/, '$1$2');
-
-            m3uOutput += '#EXTINF:-1 tvg-name="' + processedChannelName + '" tvg-logo="https://live.fanmingming.com/tv/' + processedChannelName + '.png"';
-            
-            // 如果有组名称，则添加 group-title 属性
+            const [originalChannelName, channelLink] = trimmedLine.split(',').map(item => item.trim());
+            const processedChannelName = originalChannelName.replace(/(CCTV|CETV)-(\d+).*/, '$1$2');
+            m3uOutput += `#EXTINF:-1 tvg-name="${processedChannelName}" tvg-logo="https://live.fanmingming.com/tv/${processedChannelName}.png"`;
             if (currentGroup) {
-              m3uOutput += ' group-title="' + currentGroup + '"';
+              m3uOutput += ` group-title="${currentGroup}"`;
             }
-
-            m3uOutput += ',' + originalChannelName + '\n';
-            m3uOutput += channelLink + '\n';
+            m3uOutput += `,${originalChannelName}\n${channelLink}\n`;
           }
         }
       }
-
       document.getElementById('m3uOutput').value = m3uOutput;
     }
-
     function clearScreen() {
       document.getElementById('txtInput').value = '';
       document.getElementById('m3uOutput').value = '';
     }
-
     function copyContent() {
-      var m3uOutput = document.getElementById('m3uOutput');
+      const m3uOutput = document.getElementById('m3uOutput');
       m3uOutput.select();
       document.execCommand('copy');
       alert('内容已复制到剪贴板！');
     }
-
     function saveAsM3U() {
-      var m3uContent = document.getElementById('m3uOutput').value;
-      var blob = new Blob([m3uContent], { type: 'text/plain' });
-      var a = document.createElement('a');
+      const m3uContent = document.getElementById('m3uOutput').value;
+      const blob = new Blob([m3uContent], { type: 'text/plain' });
+      const a = document.createElement('a');
       a.href = URL.createObjectURL(blob);
       a.download = 'playlist.m3u';
       document.body.appendChild(a);
