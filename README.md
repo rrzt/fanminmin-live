@@ -29,8 +29,8 @@
     <tr>
       <td>📺电视台图标库</td>
       <td><a href="https://github.com/fanmingming/live/tree/main/tv">https://live.fanmingming.com/tv/{频道名称}.png</a></td>
-      <td>964个</td>
-      <td>2023.12.22</td>
+      <td>965个</td>
+      <td>2023.12.29</td>
     </tr>
     <tr>
       <td>📻广播电台图标库</td>
@@ -93,8 +93,5 @@
   - 如遇资源访问问题请通过Telegram反馈。
 
 ## 📔更新
-- 2023.12.22
-  - 添加了山东频道的台标。 
-- 2023.12.21
-  - 剔除了tv目录下的一些jpg格式台标，规范了格式。
-  - 修复了TXT转M3U格式工具的一处小错误，优化了界面样式。
+- 2023.12.29
+  - 添加了台标。 
