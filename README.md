@@ -29,8 +29,8 @@
     <tr>
       <td>📺电视台图标库</td>
       <td><a href="https://github.com/fanmingming/live/tree/main/tv">https://live.fanmingming.com/tv/{频道名称}.png</a></td>
-      <td>965个</td>
-      <td>2023.12.29</td>
+      <td>926个</td>
+      <td>2023.12.31</td>
     </tr>
     <tr>
       <td>📻广播电台图标库</td>
@@ -93,5 +93,5 @@
   - 如遇资源访问问题请通过Telegram反馈。
 
 ## 📔更新
-- 2023.12.29
-  - 添加了台标。 
+- 2023.12.31
+  - 整理了台标。 
