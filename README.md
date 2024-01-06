@@ -29,8 +29,8 @@
     <tr>
       <td>📺电视台图标库</td>
       <td><a href="https://github.com/fanmingming/live/tree/main/tv">https://live.fanmingming.com/tv/{频道名称}.png</a></td>
-      <td>930个</td>
-      <td>2024.1.2</td>
+      <td>938个</td>
+      <td>2024.1.6</td>
     </tr>
     <tr>
       <td>📻广播电台图标库</td>
@@ -93,6 +93,5 @@
   - 如遇资源访问问题请通过Telegram反馈。
 
 ## 📔更新
-- 2024.1.2
-  - 新年快乐！
-    - 更新了重庆系列台标，整理了其他电视台标。
+- 2024.1.6
+  - 增加陕西频道8个台标。
