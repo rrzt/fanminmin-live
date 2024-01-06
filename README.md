@@ -29,7 +29,7 @@
     <tr>
       <td>📺电视台图标库</td>
       <td><a href="https://github.com/fanmingming/live/tree/main/tv">https://live.fanmingming.com/tv/{频道名称}.png</a></td>
-      <td>938个</td>
+      <td>943个</td>
       <td>2024.1.6</td>
     </tr>
     <tr>
@@ -94,4 +94,4 @@
 
 ## 📔更新
 - 2024.1.6
-  - 增加陕西频道8个台标。
+  - 增加陕西频道台标。
