@@ -27,13 +27,13 @@
   </thead>
   <tbody>
     <tr>
-      <td>📺电视台图标库</td>
+      <td>📺电视</td>
       <td><a href="https://github.com/fanmingming/live/tree/main/tv">https://live.fanmingming.com/tv/{频道名称}.png</a></td>
       <td>943个</td>
       <td>2024.1.6</td>
     </tr>
     <tr>
-      <td>📻广播电台图标库</td>
+      <td>📻广播</td>
       <td><a href="https://github.com/fanmingming/live/tree/main/radio">https://live.fanmingming.com/radio/{频道名称}.png</a></td>
       <td>465个</td>
       <td>2023.8.27</td>
@@ -93,5 +93,5 @@
   - 如遇资源访问问题请通过Telegram反馈。
 
 ## 📔更新
-- 2024.1.6
-  - 增加陕西频道台标。
+- 2024.1.9
+  - 优化了构建页面的显示样式。
