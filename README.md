@@ -47,15 +47,10 @@
 ```
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
-可用的CCTV1节目源
+可用的CCTV1节目源链接
 此处省略...
 ```
 
-若您的直播源支持回看，请将第一行代码替换为：
-
-```
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-```
  - 将编辑完成的m3u文件上传到您的Github仓库。
  - 为您的Github仓库开启Pages。
  - 通过播放器订阅您的m3u链接。
