@@ -21,21 +21,18 @@
     <tr>
       <th>类 别</th>
       <th>调用路径</th>
-      <th>图标数量</th>
-      <th>更新时间</th>
+      <th>最后更新</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>📺电视</td>
       <td><a href="https://github.com/fanmingming/live/tree/main/tv">https://live.fanmingming.com/tv/{频道名称}.png</a></td>
-      <td>943个</td>
       <td>2024.1.6</td>
     </tr>
     <tr>
       <td>📻广播</td>
       <td><a href="https://github.com/fanmingming/live/tree/main/radio">https://live.fanmingming.com/radio/{频道名称}.png</a></td>
-      <td>465个</td>
       <td>2023.8.27</td>
     </tr>
   </tbody>
@@ -46,13 +43,16 @@
    - [https://live.fanmingming.com/tv/m3u/demo.m3u](https://live.fanmingming.com/tv/m3u/demo.m3u)
 
  - 参考下方示例代码将`可用的CCTV1节目源`替换为您当地可用的直播源链接，依此类推逐个替换。
+
 ```
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
 可用的CCTV1节目源
 此处省略...
 ```
+
 若您的直播源支持回看，请将第一行代码替换为：
+
 ```
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 ```
