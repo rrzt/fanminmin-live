@@ -58,24 +58,24 @@
 > 关于Github Pages：[https://docs.github.com/en/enterprise-cloud@latest/pages/quickstart](https://docs.github.com/en/enterprise-cloud@latest/pages/quickstart)
 
 ## 🛠️工具
-- 📆EPG接口地址：
+- 📆**EPG接口地址**：
   -  [https://live.fanmingming.com/e.xml](https://live.fanmingming.com/e.xml)
-- 🏞️Bing每日图片：
+- 🏞️**Bing每日图片**：
   -  [https://fanmingming.com/bing](https://fanmingming.com/bing)
-- 🎞️m3u8下载工具：
+- 🎞️**m3u8下载工具**：
   -  [https://live.fanmingming.com/m3u8](https://live.fanmingming.com/m3u8)
-- 🆕TXT转M3U格式：
+- 🆕**在线TXT转M3U**：
   - [https://live.fanmingming.com/txt2m3u](https://live.fanmingming.com/txt2m3u)
-- 📄M3U转TXT格式：
+- 📄**M3U转TXT格式**：
   - Demo🔗 [https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u](https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u)
-- 🌐M3U8 Web Player:
+- 🌐**M3U8 Web Player**:
   - Demo🔗 [https://live.fanmingming.com/player/?vurl=https://0472.org/hls/cctv13.m3u8](https://live.fanmingming.com/player/?vurl=https://0472.org/hls/cctv13.m3u8)
 
 ## 📖说明
 - 项目EPG接口为112114.xyz站点分发，本项目无法确保其准确性。
 - 通过M3U8 Web Player测试直播源需使用https协议的直播源链接。
 - 在线M3U转TXT工具构建在Vercel，不会记录您的访问日志请放心使用。
-- 在线TXT转M3U工具为前端转换，无需上传文件，粘贴即转换，安全不偷源。
+- TXT转M3U工具为前端网页转换，无需上传文件，粘贴即转换，安全不偷源。
 - 本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担。
 - 项目`/tv/m3u/`和`/radio/m3u/`目录下的内容收集于互联网，仅供测试研究使用，本项目无法保证其有效性。
 - 主域名【`live.fanmingming.com`】的WEB访问通过Github Pages自动构建，由CloudFlare提供CDN和安全防护。
