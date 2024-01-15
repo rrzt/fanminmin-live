@@ -48,9 +48,9 @@
   -  [https://fanmingming.com/bing](https://fanmingming.com/bing)
 - 🎞️**m3u8下载工具**：
   -  [https://live.fanmingming.com/m3u8](https://live.fanmingming.com/m3u8)
-- 🆕**在线TXT转M3U**：
+- 🆕**TXT转M3U格式**：
   - [https://live.fanmingming.com/txt2m3u](https://live.fanmingming.com/txt2m3u)
-- 📄**M3U转TXT格式**：
+- 📄**在线M3U转TXT**：
   - Demo🔗 [https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u](https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u)
 - 🌐**M3U8 Web Player**:
   - Demo🔗 [https://live.fanmingming.com/player/?vurl=https://0472.org/hls/cctv13.m3u8](https://live.fanmingming.com/player/?vurl=https://0472.org/hls/cctv13.m3u8)
