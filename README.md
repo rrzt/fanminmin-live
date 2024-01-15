@@ -16,27 +16,11 @@
 ## 🤹‍♂️使用方法:
 
 ### 🌇电视/广播图标库：
-<table>
-  <thead>
-    <tr>
-      <th>类 别</th>
-      <th>调用路径</th>
-      <th>最后更新</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>📺电视</td>
-      <td><a href="https://github.com/fanmingming/live/tree/main/tv">https://live.fanmingming.com/tv/{频道名称}.png</a></td>
-      <td>2024.1.6</td>
-    </tr>
-    <tr>
-      <td>📻广播</td>
-      <td><a href="https://github.com/fanmingming/live/tree/main/radio">https://live.fanmingming.com/radio/{频道名称}.png</a></td>
-      <td>2023.8.27</td>
-    </tr>
-  </tbody>
-</table>
+
+| 类 别  | 调用路径                                       | 最后更新   |
+|-------|------------------------------------------------|------------|
+| 📺电视  | [https://live.fanmingming.com/tv/{频道名称}.png](https://github.com/fanmingming/live/tree/main/tv) | 2024.1.6    |
+| 📻广播  | [https://live.fanmingming.com/radio/{频道名称}.png](https://github.com/fanmingming/live/tree/main/radio) | 2023.8.27   |
 
 ### ⛓️创建您的m3u订阅链接：
  - 下载 `demo.m3u` 空白示例文件并使用文本编辑软件打开。
