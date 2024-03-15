@@ -19,7 +19,7 @@
 
 | 类 别  | 调用路径                                       | 最后更新   |
 |-------|------------------------------------------------|------------|
-| 📺电视  | [https://live.fanmingming.com/tv/{频道名称}.png](https://github.com/fanmingming/live/tree/main/tv) | 2024.3.12    |
+| 📺电视  | [https://live.fanmingming.com/tv/{频道名称}.png](https://github.com/fanmingming/live/tree/main/tv) | 2024.3.15    |
 | 📻广播  | [https://live.fanmingming.com/radio/{频道名称}.png](https://github.com/fanmingming/live/tree/main/radio) | 2023.8.27   |
 
 ### ⛓️创建您的m3u订阅链接：
@@ -72,5 +72,5 @@
   - 如遇资源访问问题请通过Telegram反馈。
 
 ## 📔更新
-- 2024.3.12
-  - 优化了部分台标。修复了错误。
+- 2024.3.15
+  - 添加了台标。
