@@ -53,7 +53,7 @@
 - 📄**在线M3U转TXT**：
   - Demo🔗 [https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u](https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u)
 - 🌐**M3U8 Web Player**:
-  - Demo🔗 [https://live.fanmingming.com/player/?vurl=https://0472.org/hls/cctv13.m3u8](https://live.fanmingming.com/player/?vurl=https://0472.org/hls/cctv13.m3u8)
+  - Demo🔗 [https://live.fanmingming.com/player/?vurl=https://0472.org/hls/cgtn.m3u8](https://live.fanmingming.com/player/?vurl=https://0472.org/hls/cgtn.m3u8)
 
 ## 📖说明
 - 项目EPG接口为112114.xyz站点分发，本项目无法确保其准确性。
@@ -72,5 +72,5 @@
   - 如遇资源访问问题请通过Telegram反馈。
 
 ## 📔更新
-- 2024.3.15
-  - 添加了台标。
+- 2024.3.17
+  - 修复Web Player Demo链接失效问题。
