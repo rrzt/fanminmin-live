@@ -20910,7 +20910,10 @@
 	<programme channel="云南娱乐" start="20240426054500 +0800" stop="20240426055300 +0800">
 		<title lang="zh">云岭早晨</title>
 	</programme>
-	<programme channel="云南娱乐" start="20240426055300 +0800" 6070200 +0800">
+	<programme channel="云南娱乐" start="20240426055300 +0800" stop="20240426062900 +0800">
+		<title lang="zh">云南大舞台</title>
+	</programme>
+	<programme channel="云南娱乐" start="20240426062900 +0800" stop="20240426070200 +0800">
 		<title lang="zh">经典之声</title>
 	</programme>
 	<programme channel="云南娱乐" start="20240426070200 +0800" stop="20240426081300 +0800">
@@ -31323,6 +31326,9 @@
 	<programme channel="咪咕综合体育" start="20240426191500 +0800" stop="20240426221500 +0800">
 		<title lang="zh">CBA 季后赛 广州vs新疆</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20240426221500 +0800" stop="20240426000000 +0800">
+		<title lang="zh">23/24赛季中国男子排球超级联赛3、4名决赛全场回放：保定沃隶1-3浙江德清（陈博媛）</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -31358,6 +31364,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20240426192000 +0800" stop="20240426220000 +0800">
 		<title lang="zh">中超 第8轮 浙江俱乐部vs北京国安</title>
+	</programme>
+	<programme channel="咪咕足球" start="20240426220000 +0800" stop="20240426000000 +0800">
+		<title lang="zh">2024赛季中超第4轮全场回放：北京国安2:2上海海港（孙雨轩、贾天宁、林梦鸽）（50帧原画）</title>
 	</programme>
 	<channel id="嘉佳卡通">
 		<display-name lang="zh">嘉佳卡通</display-name>
@@ -33731,9 +33740,6 @@
 	</programme>
 	<programme channel="央视台球" start="20240426140900 +0800" stop="20240426143300 +0800">
 		<title lang="zh">实况录像-2015年世界斯诺克海宁公开赛?精选2</title>
-	</programme>
-	<programme channel="央视台球" start="20240426143300 +0800" stop="20240426161600 +0800">
-		<title lang="zh">实况录像-201�赛?精选2</title>
 	</programme>
 	<programme channel="央视台球" start="20240426143300 +0800" stop="20240426161600 +0800">
 		<title lang="zh">实况录像-2019/2020赛季斯诺克英国锦标赛?决赛</title>
@@ -59202,6 +59208,15 @@
 	<programme channel="纯享4K" start="20240426212600 +0800" stop="20240426214100 +0800">
 		<title lang="zh">跑马溜溜的云上4K 第7集</title>
 	</programme>
+	<programme channel="纯享4K" start="20240426214100 +0800" stop="20240426220500 +0800">
+		<title lang="zh">在乡村4K 第5集 理想的房子</title>
+	</programme>
+	<programme channel="纯享4K" start="20240426220500 +0800" stop="20240426223000 +0800">
+		<title lang="zh">在乡村4K 第6集 从许村到青田</title>
+	</programme>
+	<programme channel="纯享4K" start="20240426223000 +0800" stop="20240426232000 +0800">
+		<title lang="zh">多彩葡萄牙4K</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -67075,27 +67090,7 @@
 		<title lang="zh">今晚播报</title>
 	</programme>
 	<programme channel="防城港公共" start="20240426130000 +0800" stop="20240426153000 +0800">
-		<title lang="zh">红树林影院</title>
-	</programme>
-	<programme channel="防城港公共" start="20240426153000 +0800" stop="20240426163400 +0800">
-		<title lang="zh">下午剧场</title>
-	</programme>
-	<programme channel="防城港公共" start="20240426163400 +0800" stop="20240426175400 +0800">
-		<title lang="zh">下午剧场</title>
-	</programme>
-	<programme channel="防城港公共" start="20240426175400 +0800" stop="20240426180000 +0800">
-		<title lang="zh">百姓家居</title>
-	</programme>
-	<programme channel="防城港公共" start="20240426180000 +0800" stop="20240426194500 +0800">
-		<title lang="zh">金茶花剧场</title>
-	</programme>
-	<programme channel="防城港公共" start="20240426194500 +0800" stop="20240426200000 +0800">
-		<title lang="zh">品牌广场</title>
-	</programme>
-	<programme channel="防城港公共" start="20240426200000 +0800" stop="20240426203700 +0800">
-		<title lang="zh">防城港新闻</title>
-	</programme>
-	<programme channel="防城港公共" start="20240426203700 +0800" stop="20240426210000 +0800">
+		<title lang="zh">红树�3700 +0800" stop="20240426210000 +0800">
 		<title lang="zh">家·防城港</title>
 	</programme>
 	<programme channel="防城港公共" start="20240426210000 +0800" stop="20240426213000 +0800">
@@ -73188,73 +73183,4 @@
 	<programme channel="求索纪录" start="20240426065500 +0800" stop="20240426074500 +0800">
 		<title lang="zh">爬虫沼泽兄弟档(1)</title>
 	</programme>
-	<programme channel="求索纪录" start="20240426074500 +0800" stop="20240426080000 +0800">
-		<title lang="zh">守护悉尼港(2)</title>
-	</programme>
-	<programme channel="求索纪录" start="20240426080000 +0800" stop="20240426083500 +0800">
-		<title lang="zh">守护悉尼港(2)</title>
-	</programme>
-	<programme channel="求索纪录" start="20240426083500 +0800" stop="20240426093000 +0800">
-		<title lang="zh">超级大机具Ⅱ(2)</title>
-	</programme>
-	<programme channel="求索纪录" start="20240426093000 +0800" stop="20240426102000 +0800">
-		<title lang="zh">六千金在我家Ⅲ(16)</title>
-	</programme>
-	<programme channel="求索纪录" start="20240426102000 +0800" stop="20240426111000 +0800">
-		<title lang="zh">落基山兽医杰夫Ⅱ(4)</title>
-	</programme>
-	<programme channel="求索纪录" start="20240426111000 +0800" stop="20240426120500 +0800">
-		<title lang="zh">石油大亨我来当(4)</title>
-	</programme>
-	<programme channel="求索纪录" start="20240426120500 +0800" stop="20240426125500 +0800">
-		<title lang="zh">仕盛的家庭料理(6)</title>
-	</programme>
-	<programme channel="求索纪录" start="20240426125500 +0800" stop="20240426134500 +0800">
-		<title lang="zh">阿拉斯加置产家Ⅲ(4)</title>
-	</programme>
-	<programme channel="求索纪录" start="20240426134500 +0800" stop="20240426143500 +0800">
-		<title lang="zh">阿拉斯加金矿的赌注Ⅴ(20)</title>
-	</programme>
-	<programme channel="求索纪录" start="20240426143500 +0800" stop="20240426153000 +0800">
-		<title lang="zh">荒野求生Ⅱ(8)</title>
-	</programme>
-	<programme channel="求索纪录" start="20240426153000 +0800" stop="20240426162000 +0800">
-		<title lang="zh">旧货猎人(9)</title>
-	</programme>
-	<programme channel="求索纪录" start="20240426162000 +0800" stop="20240426164500 +0800">
-		<title lang="zh">巴比早午餐Ⅶ(1)</title>
-	</programme>
-	<programme channel="求索纪录" start="20240426164500 +0800" stop="20240426171000 +0800">
-		<title lang="zh">巴比早午餐Ⅶ(2)</title>
-	</programme>
-	<programme channel="求索纪录" start="20240426171000 +0800" stop="20240426180500 +0800">
-		<title lang="zh">一车行天下Ⅱ(8)</title>
-	</programme>
-	<programme channel="求索纪录" start="20240426180500 +0800" stop="20240426183000 +0800">
-		<title lang="zh">翻转餐厅(3)</title>
-	</programme>
-	<programme channel="求索纪录" start="20240426183000 +0800" stop="20240426185500 +0800">
-		<title lang="zh">翻转餐厅(4)</title>
-	</programme>
-	<programme channel="求索纪录" start="20240426185500 +0800" stop="20240426194500 +0800">
-		<title lang="zh">新西兰国家公园之美(4)</title>
-	</programme>
-	<programme channel="求索纪录" start="20240426194500 +0800" stop="20240426203500 +0800">
-		<title lang="zh">发现新加坡Ⅰ(2)</title>
-	</programme>
-	<programme channel="求索纪录" start="20240426203500 +0800" stop="20240426213000 +0800">
-		<title lang="zh">空中决斗(2)</title>
-	</programme>
-	<programme channel="求索纪录" start="20240426213000 +0800" stop="20240426215500 +0800">
-		<title lang="zh">便宜吃好料Ⅲ(7)</title>
-	</programme>
-	<programme channel="求索纪录" start="20240426215500 +0800" stop="20240426222000 +0800">
-		<title lang="zh">便宜吃好料Ⅲ(8)</title>
-	</programme>
-	<programme channel="求索纪录" start="20240426222000 +0800" stop="20240426224500 +0800">
-		<title lang="zh">卡津双厨Ⅱ(5)</title>
-	</programme>
-	<programme channel="求索纪录" start="20240426224500 +0800" stop="20240426231000 +0800">
-		<title lang="zh">卡津双厨Ⅱ(6)</title>
-	</programme>
-</tv>
+	<programme channel="求索纪录" start="20240426074500 +0800" stop="20240
